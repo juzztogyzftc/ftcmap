@@ -67,16 +67,6 @@ npx serve .
 
 Then open <http://localhost:8000>.
 
-## Deploy to GitHub Pages
-
-1. Create a new GitHub repository (e.g. `ftcmap`).
-2. Upload all project files (or `git push` them).
-3. Go to **Settings → Pages**.
-4. Under **Build and deployment**, choose **Deploy from a branch**,
-   select the `main` branch and `/ (root)`, then save.
-5. Wait a minute, then open the generated URL:
-   `https://<your-username>.github.io/ftcmap/`
-
 ## Tech
 
 - [Leaflet](https://leafletjs.com/) — map
