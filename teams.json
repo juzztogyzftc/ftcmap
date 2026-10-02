@@ -1,0 +1,4754 @@
+[
+  {
+    "teamNumber": "29393",
+    "teamName": "JuzzTogyz",
+    "country": "Kazakhstan",
+    "city": "Karaganda",
+    "lat": 49.7462,
+    "lng": 73.0107
+  },
+  {
+    "teamNumber": "27772",
+    "teamName": "JelToqSun",
+    "country": "Kazakhstan",
+    "city": "Karaganda",
+    "lat": 49.8049,
+    "lng": 73.0216
+  },
+  {
+    "teamNumber": "24697",
+    "teamName": "SANA",
+    "country": "Kazakhstan",
+    "city": "Almaty",
+    "lat": 43.2264,
+    "lng": 76.8951
+  },
+  {
+    "teamNumber": "29029",
+    "teamName": "FoxSlide",
+    "country": "Kazakhstan",
+    "city": "Astana",
+    "lat": 51.1087,
+    "lng": 71.433
+  },
+  {
+    "teamNumber": "27674",
+    "teamName": "KAP",
+    "country": "Kazakhstan",
+    "city": "Almaty",
+    "lat": 43.296,
+    "lng": 77.0289
+  },
+  {
+    "teamNumber": "19163",
+    "teamName": "MLP",
+    "country": "Kazakhstan",
+    "city": "Almaty",
+    "lat": 43.174,
+    "lng": 76.9481
+  },
+  {
+    "teamNumber": "21058",
+    "teamName": "Panheya",
+    "country": "Kazakhstan",
+    "city": "Almaty",
+    "lat": 43.1873,
+    "lng": 77.003
+  },
+  {
+    "teamNumber": "28061",
+    "teamName": "FIZMAT ROBOTICS",
+    "country": "Kazakhstan",
+    "city": "Astana",
+    "lat": 51.1579,
+    "lng": 71.5208
+  },
+  {
+    "teamNumber": "17962",
+    "teamName": "Ro2D2",
+    "country": "Romania",
+    "city": "Ploiesti",
+    "lat": 44.8825,
+    "lng": 25.9964
+  },
+  {
+    "teamNumber": "20265",
+    "teamName": "Heart of RoBots",
+    "country": "Romania",
+    "city": "Buzau",
+    "lat": 45.1741,
+    "lng": 26.7553
+  },
+  {
+    "teamNumber": "16290",
+    "teamName": "SOLVERS",
+    "country": "Kazakhstan",
+    "city": "Almaty",
+    "lat": 43.256,
+    "lng": 76.928
+  },
+  {
+    "teamNumber": "11260",
+    "teamName": "Up-A-Creek Robotics",
+    "country": "USA",
+    "city": "Longmont, CO",
+    "lat": 40.167,
+    "lng": -105.102
+  },
+  {
+    "teamNumber": "11115",
+    "teamName": "Gluten Free",
+    "country": "USA",
+    "city": "Exeter, NH",
+    "lat": 42.981,
+    "lng": -70.948
+  },
+  {
+    "teamNumber": "8393",
+    "teamName": "The Giant Diencephalic BrainSTEM Robotics Team",
+    "country": "USA",
+    "city": "Pittsburgh, PA",
+    "lat": 40.441,
+    "lng": -79.996
+  },
+  {
+    "teamNumber": "7244",
+    "teamName": "OUT of the BOX Robotics",
+    "country": "USA",
+    "city": "Thornton, CO",
+    "lat": 39.868,
+    "lng": -104.972
+  },
+  {
+    "teamNumber": "4410",
+    "teamName": "Hydra",
+    "country": "USA",
+    "city": "Charlotte, NC",
+    "lat": 35.227,
+    "lng": -80.843
+  },
+  {
+    "teamNumber": "19453",
+    "teamName": "RoBotica",
+    "country": "Romania",
+    "city": "Bucharest",
+    "lat": 44.427,
+    "lng": 26.103
+  },
+  {
+    "teamNumber": "19036",
+    "teamName": "Cyber Eagles",
+    "country": "Romania",
+    "city": "Cluj-Napoca",
+    "lat": 46.771,
+    "lng": 23.624
+  },
+  {
+    "teamNumber": "18500",
+    "teamName": "Alphabots",
+    "country": "Romania",
+    "city": "Iași",
+    "lat": 47.158,
+    "lng": 27.587
+  },
+  {
+    "teamNumber": "20513",
+    "teamName": "TechNova",
+    "country": "Ukraine",
+    "city": "Kyiv",
+    "lat": 50.45,
+    "lng": 30.523
+  },
+  {
+    "teamNumber": "12334",
+    "teamName": "RoboLions",
+    "country": "Ukraine",
+    "city": "Lviv",
+    "lat": 49.84,
+    "lng": 24.031
+  },
+  {
+    "teamNumber": "20193",
+    "teamName": "Gear Grinders",
+    "country": "United Kingdom",
+    "city": "London",
+    "lat": 51.507,
+    "lng": -0.128
+  },
+  {
+    "teamNumber": "22526",
+    "teamName": "Iron Summit",
+    "country": "Germany",
+    "city": "Munich",
+    "lat": 48.137,
+    "lng": 11.575
+  },
+  {
+    "teamNumber": "15375",
+    "teamName": "Circuit Breakers",
+    "country": "Israel",
+    "city": "Tel Aviv",
+    "lat": 32.085,
+    "lng": 34.782
+  },
+  {
+    "teamNumber": "23338",
+    "teamName": "MapleBots",
+    "country": "Canada",
+    "city": "Toronto, ON",
+    "lat": 43.653,
+    "lng": -79.383
+  },
+  {
+    "teamNumber": "24002",
+    "teamName": "Southern Sparks",
+    "country": "Australia",
+    "city": "Sydney",
+    "lat": -33.868,
+    "lng": 151.209
+  },
+  {
+    "teamNumber": "21789",
+    "teamName": "Byte Riders",
+    "country": "India",
+    "city": "Bengaluru",
+    "lat": 12.972,
+    "lng": 77.594
+  },
+  {
+    "teamNumber": "22901",
+    "teamName": "Águilas de Acero",
+    "country": "Mexico",
+    "city": "Mexico City",
+    "lat": 19.433,
+    "lng": -99.133
+  },
+  {
+    "teamNumber": "21247",
+    "teamName": "Delta Robotics",
+    "country": "Netherlands",
+    "city": "Amsterdam",
+    "lat": 52.367,
+    "lng": 4.904
+  },
+  {
+    "teamNumber": "12527",
+    "teamName": "Prototype",
+    "country": "China",
+    "city": "Beijing",
+    "lat": 39.8406,
+    "lng": 116.3517
+  },
+  {
+    "teamNumber": "16093",
+    "teamName": "Cosmic Spark",
+    "country": "China",
+    "city": "Beijing",
+    "lat": 39.9422,
+    "lng": 116.3867
+  },
+  {
+    "teamNumber": "19601",
+    "teamName": "Supernova",
+    "country": "China",
+    "city": "Huangpu",
+    "lat": 31.2005,
+    "lng": 121.5266
+  },
+  {
+    "teamNumber": "19606",
+    "teamName": "Riser",
+    "country": "China",
+    "city": "Pudong",
+    "lat": 31.1742,
+    "lng": 121.5537
+  },
+  {
+    "teamNumber": "19612",
+    "teamName": "Dream wind",
+    "country": "China",
+    "city": "Nanjing",
+    "lat": 32.0935,
+    "lng": 118.8344
+  },
+  {
+    "teamNumber": "19660",
+    "teamName": "Sigma",
+    "country": "China",
+    "city": "Shanghai",
+    "lat": 31.1964,
+    "lng": 121.5532
+  },
+  {
+    "teamNumber": "19683",
+    "teamName": "Rizzler",
+    "country": "China",
+    "city": "Shanghai",
+    "lat": 31.2668,
+    "lng": 121.4195
+  },
+  {
+    "teamNumber": "19726",
+    "teamName": "FFFabulous",
+    "country": "China",
+    "city": "Shanghai",
+    "lat": 31.228,
+    "lng": 121.4981
+  },
+  {
+    "teamNumber": "19859",
+    "teamName": "Reflection",
+    "country": "China",
+    "city": "Shanghai",
+    "lat": 31.2579,
+    "lng": 121.4526
+  },
+  {
+    "teamNumber": "22389",
+    "teamName": "AE86",
+    "country": "China",
+    "city": "Shanghai",
+    "lat": 31.1641,
+    "lng": 121.5012
+  },
+  {
+    "teamNumber": "22406",
+    "teamName": "Future Brightness",
+    "country": "China",
+    "city": "Minhang",
+    "lat": 31.1782,
+    "lng": 121.4277
+  },
+  {
+    "teamNumber": "23845",
+    "teamName": "ElephantNova",
+    "country": "China",
+    "city": "Shanghai",
+    "lat": 31.1663,
+    "lng": 121.4479
+  },
+  {
+    "teamNumber": "24306",
+    "teamName": "Human Machine",
+    "country": "China",
+    "city": "Shanghai",
+    "lat": 31.2812,
+    "lng": 121.5377
+  },
+  {
+    "teamNumber": "24567",
+    "teamName": "Hero",
+    "country": "China",
+    "city": "Beijing",
+    "lat": 39.9022,
+    "lng": 116.4165
+  },
+  {
+    "teamNumber": "27501",
+    "teamName": "EFZ Robotics",
+    "country": "China",
+    "city": "Shanghai",
+    "lat": 31.1965,
+    "lng": 121.5386
+  },
+  {
+    "teamNumber": "27571",
+    "teamName": "Cheetah",
+    "country": "China",
+    "city": "Shanghai",
+    "lat": 31.2343,
+    "lng": 121.562
+  },
+  {
+    "teamNumber": "28103",
+    "teamName": "Fine Robot Alliance-02",
+    "country": "China",
+    "city": "Taiyuan",
+    "lat": 37.8546,
+    "lng": 112.6349
+  },
+  {
+    "teamNumber": "28119",
+    "teamName": "InfiniteDream",
+    "country": "China",
+    "city": "Beijing",
+    "lat": 39.9123,
+    "lng": 116.4468
+  },
+  {
+    "teamNumber": "22438",
+    "teamName": "Mech Empire",
+    "country": "China",
+    "city": "Beijing",
+    "lat": 39.8785,
+    "lng": 116.3606
+  },
+  {
+    "teamNumber": "31596",
+    "teamName": "Absolute Zero",
+    "country": "China",
+    "city": "Pudong",
+    "lat": 31.2288,
+    "lng": 121.6275
+  },
+  {
+    "teamNumber": "31558",
+    "teamName": "Nebula",
+    "country": "China",
+    "city": "Shanghai",
+    "lat": 31.2493,
+    "lng": 121.442
+  },
+  {
+    "teamNumber": "31715",
+    "teamName": "Grid Forge",
+    "country": "China",
+    "city": "Beijing",
+    "lat": 39.8501,
+    "lng": 116.4403
+  },
+  {
+    "teamNumber": "32009",
+    "teamName": "BBK Robotics",
+    "country": "China",
+    "city": "Dongguan",
+    "lat": 23.0699,
+    "lng": 113.7036
+  },
+  {
+    "teamNumber": "32008",
+    "teamName": "Innovators",
+    "country": "China",
+    "city": "Minhang",
+    "lat": 31.0553,
+    "lng": 121.449
+  },
+  {
+    "teamNumber": "32238",
+    "teamName": "nanoForce",
+    "country": "China",
+    "city": "Beijing",
+    "lat": 39.8505,
+    "lng": 116.3966
+  },
+  {
+    "teamNumber": "32333",
+    "teamName": "Trinary Star",
+    "country": "China",
+    "city": "Shanghai",
+    "lat": 31.2178,
+    "lng": 121.4825
+  },
+  {
+    "teamNumber": "32537",
+    "teamName": "Mechanists",
+    "country": "China",
+    "city": "Beijing",
+    "lat": 39.926,
+    "lng": 116.4579
+  },
+  {
+    "teamNumber": "22454",
+    "teamName": "Absolute Zero Point Zero",
+    "country": "China",
+    "city": "Pudong",
+    "lat": 31.2202,
+    "lng": 121.6315
+  },
+  {
+    "teamNumber": "19877",
+    "teamName": "Thinking Unlimited #1",
+    "country": "China",
+    "city": "Chongqing",
+    "lat": 29.5486,
+    "lng": 106.6127
+  },
+  {
+    "teamNumber": "8347",
+    "teamName": "Cosmic Singularity",
+    "country": "China",
+    "city": "Shanghai",
+    "lat": 31.1694,
+    "lng": 121.4871
+  },
+  {
+    "teamNumber": "16095",
+    "teamName": "Fat Dragon",
+    "country": "China",
+    "city": "Beijing",
+    "lat": 39.8753,
+    "lng": 116.3359
+  },
+  {
+    "teamNumber": "19600",
+    "teamName": "Treeman 树人",
+    "country": "China",
+    "city": "Songjiang",
+    "lat": 31.046,
+    "lng": 121.209
+  },
+  {
+    "teamNumber": "19605",
+    "teamName": "MaLio",
+    "country": "China",
+    "city": "Shanghai",
+    "lat": 31.2167,
+    "lng": 121.4191
+  },
+  {
+    "teamNumber": "19608",
+    "teamName": "dragon river",
+    "country": "China",
+    "city": "Nanjing",
+    "lat": 32.0873,
+    "lng": 118.756
+  },
+  {
+    "teamNumber": "19613",
+    "teamName": "triumph Eagle",
+    "country": "China",
+    "city": "Nanjing",
+    "lat": 32.06,
+    "lng": 118.7191
+  },
+  {
+    "teamNumber": "19665",
+    "teamName": "Forever Assassin",
+    "country": "China",
+    "city": "Shanghai",
+    "lat": 31.1691,
+    "lng": 121.5163
+  },
+  {
+    "teamNumber": "19666",
+    "teamName": "Forever Knight",
+    "country": "China",
+    "city": "Shanghai",
+    "lat": 31.2756,
+    "lng": 121.4009
+  },
+  {
+    "teamNumber": "19682",
+    "teamName": "Imagineers",
+    "country": "China",
+    "city": "Shanghai",
+    "lat": 31.1603,
+    "lng": 121.5348
+  },
+  {
+    "teamNumber": "19705",
+    "teamName": "WXYZ",
+    "country": "China",
+    "city": "Beijing",
+    "lat": 39.9047,
+    "lng": 116.3341
+  },
+  {
+    "teamNumber": "19797",
+    "teamName": "Ad Astra",
+    "country": "China",
+    "city": "Suzhou",
+    "lat": 31.3014,
+    "lng": 120.5171
+  },
+  {
+    "teamNumber": "19914",
+    "teamName": "Thinking Unlimited #2",
+    "country": "China",
+    "city": "Chongqing",
+    "lat": 29.5706,
+    "lng": 106.4837
+  },
+  {
+    "teamNumber": "20106",
+    "teamName": "HDKWA",
+    "country": "China",
+    "city": "Beijing",
+    "lat": 39.9272,
+    "lng": 116.3267
+  },
+  {
+    "teamNumber": "20827",
+    "teamName": "Roborpunk",
+    "country": "China",
+    "city": "Beijing",
+    "lat": 39.8826,
+    "lng": 116.4777
+  },
+  {
+    "teamNumber": "21981",
+    "teamName": "Main Function",
+    "country": "China",
+    "city": "Shenzhen",
+    "lat": 22.5487,
+    "lng": 114.0002
+  },
+  {
+    "teamNumber": "22404",
+    "teamName": "RW",
+    "country": "China",
+    "city": "Minhang",
+    "lat": 31.1052,
+    "lng": 121.2985
+  },
+  {
+    "teamNumber": "24393",
+    "teamName": "X Team",
+    "country": "China",
+    "city": "Shanghai",
+    "lat": 31.1702,
+    "lng": 121.3997
+  },
+  {
+    "teamNumber": "24599",
+    "teamName": "HTS",
+    "country": "China",
+    "city": "Shenzhen",
+    "lat": 22.5905,
+    "lng": 113.9754
+  },
+  {
+    "teamNumber": "24667",
+    "teamName": "Thinking Unlimited #3",
+    "country": "China",
+    "city": "Chongqing",
+    "lat": 29.5752,
+    "lng": 106.5425
+  },
+  {
+    "teamNumber": "25218",
+    "teamName": "ElephantTech",
+    "country": "China",
+    "city": "Shanghai",
+    "lat": 31.2857,
+    "lng": 121.4312
+  },
+  {
+    "teamNumber": "25832",
+    "teamName": "ripples",
+    "country": "China",
+    "city": "Shenzhen",
+    "lat": 22.4943,
+    "lng": 114.0918
+  },
+  {
+    "teamNumber": "25787",
+    "teamName": "TechBY",
+    "country": "China",
+    "city": "Haidian",
+    "lat": 40.017,
+    "lng": 116.3039
+  },
+  {
+    "teamNumber": "27570",
+    "teamName": "BAYI RONG ZHEN",
+    "country": "China",
+    "city": "Haidian",
+    "lat": 39.9978,
+    "lng": 116.3214
+  },
+  {
+    "teamNumber": "28064",
+    "teamName": "Utopia！",
+    "country": "China",
+    "city": "Beijing",
+    "lat": 39.9326,
+    "lng": 116.4927
+  },
+  {
+    "teamNumber": "30222",
+    "teamName": "Navigators",
+    "country": "China",
+    "city": "Beijing",
+    "lat": 39.9659,
+    "lng": 116.4426
+  },
+  {
+    "teamNumber": "30319",
+    "teamName": "LithiumPulse Robotics",
+    "country": "China",
+    "city": "Shanghai",
+    "lat": 31.2663,
+    "lng": 121.4778
+  },
+  {
+    "teamNumber": "30844",
+    "teamName": "CKWA Robotic",
+    "country": "China",
+    "city": "Beijing",
+    "lat": 39.8738,
+    "lng": 116.4963
+  },
+  {
+    "teamNumber": "32235",
+    "teamName": "Ares",
+    "country": "China",
+    "city": "Shanghai",
+    "lat": 31.2769,
+    "lng": 121.4497
+  },
+  {
+    "teamNumber": "22228",
+    "teamName": "EasyKidsRobotics",
+    "country": "Thailand",
+    "city": "Muang Chiang Mai",
+    "lat": 18.7891,
+    "lng": 99.0484
+  },
+  {
+    "teamNumber": "22641",
+    "teamName": "Thunderbolt",
+    "country": "Thailand",
+    "city": "Mueang Chiang Mai District",
+    "lat": 18.8371,
+    "lng": 98.9114
+  },
+  {
+    "teamNumber": "22999",
+    "teamName": "KMUTNB GEARS",
+    "country": "Thailand",
+    "city": "Bangsue",
+    "lat": 13.7665,
+    "lng": 100.5794
+  },
+  {
+    "teamNumber": "24070",
+    "teamName": "AllNew101",
+    "country": "Thailand",
+    "city": "Muang",
+    "lat": 13.7238,
+    "lng": 100.4354
+  },
+  {
+    "teamNumber": "24324",
+    "teamName": "STRIVE",
+    "country": "Thailand",
+    "city": "Chiang Mai",
+    "lat": 18.805,
+    "lng": 98.9599
+  },
+  {
+    "teamNumber": "24552",
+    "teamName": "AMC Khon NEX",
+    "country": "Thailand",
+    "city": "Muang",
+    "lat": 13.6961,
+    "lng": 100.4422
+  },
+  {
+    "teamNumber": "24808",
+    "teamName": "PRC-GC-AbsoluteS",
+    "country": "Thailand",
+    "city": "Maung",
+    "lat": 13.8143,
+    "lng": 100.433
+  },
+  {
+    "teamNumber": "24809",
+    "teamName": "PRC-GC-Minerva",
+    "country": "Thailand",
+    "city": "Muang",
+    "lat": 13.7769,
+    "lng": 100.4896
+  },
+  {
+    "teamNumber": "26575",
+    "teamName": "NeoHardDrive",
+    "country": "Thailand",
+    "city": "Lampang",
+    "lat": 18.2995,
+    "lng": 99.4775
+  },
+  {
+    "teamNumber": "27180",
+    "teamName": "CKK-ROBOT Senior",
+    "country": "Thailand",
+    "city": "Lamphun",
+    "lat": 18.6422,
+    "lng": 99.0296
+  },
+  {
+    "teamNumber": "27572",
+    "teamName": "Dinonaut",
+    "country": "Thailand",
+    "city": "Khon Kaen",
+    "lat": 16.4029,
+    "lng": 102.7966
+  },
+  {
+    "teamNumber": "28189",
+    "teamName": "MEP-BETA",
+    "country": "Thailand",
+    "city": "Muang",
+    "lat": 13.8021,
+    "lng": 100.5652
+  },
+  {
+    "teamNumber": "28191",
+    "teamName": "Gamma",
+    "country": "Thailand",
+    "city": "Muang",
+    "lat": 13.7351,
+    "lng": 100.5144
+  },
+  {
+    "teamNumber": "33158",
+    "teamName": "LSP Robotics senior",
+    "country": "Thailand",
+    "city": "Klong Sam Wa",
+    "lat": 13.8243,
+    "lng": 100.757
+  },
+  {
+    "teamNumber": "33370",
+    "teamName": "CKK-ROBOT Junior",
+    "country": "Thailand",
+    "city": "Nai Mueang",
+    "lat": 16.4478,
+    "lng": 102.8894
+  },
+  {
+    "teamNumber": "33446",
+    "teamName": "Luminex",
+    "country": "Thailand",
+    "city": "Chiang Mai",
+    "lat": 18.7828,
+    "lng": 98.9235
+  },
+  {
+    "teamNumber": "33466",
+    "teamName": "SAI-Inspire",
+    "country": "Thailand",
+    "city": "Damnoen Saduak",
+    "lat": 13.5356,
+    "lng": 99.9179
+  },
+  {
+    "teamNumber": "33634",
+    "teamName": "Zenith X",
+    "country": "Thailand",
+    "city": "Chiang Mai",
+    "lat": 18.7924,
+    "lng": 99.0121
+  },
+  {
+    "teamNumber": "33618",
+    "teamName": "BR ROBOT",
+    "country": "Thailand",
+    "city": "Borabu",
+    "lat": 16.1547,
+    "lng": 99.3552
+  },
+  {
+    "teamNumber": "32713",
+    "teamName": "KHONFUZION",
+    "country": "Thailand",
+    "city": "Khon Kaen",
+    "lat": 16.445,
+    "lng": 102.9081
+  },
+  {
+    "teamNumber": "32606",
+    "teamName": "Retroxi",
+    "country": "Thailand",
+    "city": "Samut Prakan",
+    "lat": 13.5522,
+    "lng": 100.6067
+  },
+  {
+    "teamNumber": "32899",
+    "teamName": "TW ROBOT 1",
+    "country": "Thailand",
+    "city": "Nong Chang",
+    "lat": 15.3035,
+    "lng": 99.8904
+  },
+  {
+    "teamNumber": "33165",
+    "teamName": "LSP Robotic junior",
+    "country": "Thailand",
+    "city": "Klong Sam Wa",
+    "lat": 13.8701,
+    "lng": 100.6693
+  },
+  {
+    "teamNumber": "33369",
+    "teamName": "BlitzCore",
+    "country": "Thailand",
+    "city": "Mueang Chiang Mai District",
+    "lat": 18.8383,
+    "lng": 98.9748
+  },
+  {
+    "teamNumber": "32244",
+    "teamName": "PRC-SMEP-Apollonix",
+    "country": "Thailand",
+    "city": "Chiang Mai",
+    "lat": 18.8218,
+    "lng": 99.0103
+  },
+  {
+    "teamNumber": "32504",
+    "teamName": "Shift High",
+    "country": "Thailand",
+    "city": "Chiang Mai",
+    "lat": 18.8022,
+    "lng": 99.0715
+  },
+  {
+    "teamNumber": "32567",
+    "teamName": "Astraea",
+    "country": "Thailand",
+    "city": "Chiang Mai",
+    "lat": 18.7942,
+    "lng": 99.0025
+  },
+  {
+    "teamNumber": "32135",
+    "teamName": "ASBGV Robotics Team",
+    "country": "Thailand",
+    "city": "Bang Phli",
+    "lat": 13.6379,
+    "lng": 100.6997
+  },
+  {
+    "teamNumber": "32398",
+    "teamName": "The Lion Carry",
+    "country": "Thailand",
+    "city": "Lat Lum Kaeo",
+    "lat": 14.0879,
+    "lng": 100.4728
+  },
+  {
+    "teamNumber": "32335",
+    "teamName": "UFO789",
+    "country": "Thailand",
+    "city": "Bang Khen",
+    "lat": 13.9339,
+    "lng": 100.5557
+  },
+  {
+    "teamNumber": "18024",
+    "teamName": "SMTech",
+    "country": "India",
+    "city": "Pune",
+    "lat": 18.487,
+    "lng": 73.8769
+  },
+  {
+    "teamNumber": "18025",
+    "teamName": "BSRC Mad About Robots",
+    "country": "India",
+    "city": "Pune",
+    "lat": 18.4535,
+    "lng": 73.9415
+  },
+  {
+    "teamNumber": "19013",
+    "teamName": "G-Force",
+    "country": "India",
+    "city": "Mumbai",
+    "lat": 19.131,
+    "lng": 72.9081
+  },
+  {
+    "teamNumber": "19343",
+    "teamName": "Alphas",
+    "country": "India",
+    "city": "Hyderabad",
+    "lat": 17.3182,
+    "lng": 78.4217
+  },
+  {
+    "teamNumber": "20870",
+    "teamName": "Team Matrix",
+    "country": "India",
+    "city": "Mumbai",
+    "lat": 19.0158,
+    "lng": 72.8474
+  },
+  {
+    "teamNumber": "20871",
+    "teamName": "Eureka",
+    "country": "India",
+    "city": "Mumbai",
+    "lat": 19.1223,
+    "lng": 72.912
+  },
+  {
+    "teamNumber": "20872",
+    "teamName": "CuriousCity",
+    "country": "India",
+    "city": "Mumbai",
+    "lat": 19.0889,
+    "lng": 72.7966
+  },
+  {
+    "teamNumber": "20890",
+    "teamName": "SIGMA",
+    "country": "India",
+    "city": "Mumbai",
+    "lat": 19.0466,
+    "lng": 72.8798
+  },
+  {
+    "teamNumber": "20914",
+    "teamName": "Lab Fusion",
+    "country": "India",
+    "city": "Surat",
+    "lat": 21.1776,
+    "lng": 72.7637
+  },
+  {
+    "teamNumber": "22751",
+    "teamName": "SPARK SK2",
+    "country": "India",
+    "city": "Mumbai",
+    "lat": 19.0775,
+    "lng": 72.8976
+  },
+  {
+    "teamNumber": "22985",
+    "teamName": "Paraducks",
+    "country": "India",
+    "city": "Mumbai",
+    "lat": 19.0879,
+    "lng": 72.8987
+  },
+  {
+    "teamNumber": "22986",
+    "teamName": "Team Atom",
+    "country": "India",
+    "city": "Mumbai",
+    "lat": 19.0544,
+    "lng": 72.9633
+  },
+  {
+    "teamNumber": "23071",
+    "teamName": "Team Creation",
+    "country": "India",
+    "city": "Matwan",
+    "lat": 18.9943,
+    "lng": 72.888
+  },
+  {
+    "teamNumber": "23863",
+    "teamName": "Electrohephathenix",
+    "country": "India",
+    "city": "Pune",
+    "lat": 18.554,
+    "lng": 73.9131
+  },
+  {
+    "teamNumber": "24067",
+    "teamName": "Soham Champs",
+    "country": "India",
+    "city": "Hyderabad",
+    "lat": 17.4532,
+    "lng": 78.4065
+  },
+  {
+    "teamNumber": "24824",
+    "teamName": "JPS Changemakers",
+    "country": "India",
+    "city": "Faridabad",
+    "lat": 28.348,
+    "lng": 77.3749
+  },
+  {
+    "teamNumber": "24905",
+    "teamName": "Metal Mavericks",
+    "country": "India",
+    "city": "Gurugram",
+    "lat": 28.4877,
+    "lng": 77.0981
+  },
+  {
+    "teamNumber": "25005",
+    "teamName": "Tech Infinity",
+    "country": "India",
+    "city": "Mapusa",
+    "lat": 15.6347,
+    "lng": 73.8621
+  },
+  {
+    "teamNumber": "25100",
+    "teamName": "MAD ENGINEERS",
+    "country": "India",
+    "city": "Mumbai",
+    "lat": 19.02,
+    "lng": 72.95
+  },
+  {
+    "teamNumber": "25222",
+    "teamName": "Educo",
+    "country": "India",
+    "city": "Mumbai",
+    "lat": 19.1379,
+    "lng": 72.9136
+  },
+  {
+    "teamNumber": "25400",
+    "teamName": "ATL SDPS Pitampura Delhi",
+    "country": "India",
+    "city": "Delhi",
+    "lat": 28.599,
+    "lng": 77.227
+  },
+  {
+    "teamNumber": "25544",
+    "teamName": "STEAM Varsity Gurugram",
+    "country": "India",
+    "city": "Gurugram",
+    "lat": 28.5268,
+    "lng": 76.9903
+  },
+  {
+    "teamNumber": "26438",
+    "teamName": "CROWN",
+    "country": "India",
+    "city": "Chennai",
+    "lat": 13.0575,
+    "lng": 80.2236
+  },
+  {
+    "teamNumber": "28078",
+    "teamName": "Kryptonite",
+    "country": "India",
+    "city": "Mumbai",
+    "lat": 19.0561,
+    "lng": 72.7884
+  },
+  {
+    "teamNumber": "28130",
+    "teamName": "GUJARAT TECH TITANS",
+    "country": "India",
+    "city": "Ahmedabad",
+    "lat": 23.0832,
+    "lng": 72.6016
+  },
+  {
+    "teamNumber": "28298",
+    "teamName": "2EZ",
+    "country": "India",
+    "city": "Mumbai",
+    "lat": 19.1149,
+    "lng": 72.9648
+  },
+  {
+    "teamNumber": "28359",
+    "teamName": "Circuitron",
+    "country": "India",
+    "city": "Mumbai",
+    "lat": 19.0339,
+    "lng": 72.9466
+  },
+  {
+    "teamNumber": "28699",
+    "teamName": "RoboKiran",
+    "country": "India",
+    "city": "Noida",
+    "lat": 28.6355,
+    "lng": 77.4034
+  },
+  {
+    "teamNumber": "28700",
+    "teamName": "Sewa Bharti Sewa Dham Vidya Mandir",
+    "country": "India",
+    "city": "Delhi",
+    "lat": 28.641,
+    "lng": 77.173
+  },
+  {
+    "teamNumber": "29224",
+    "teamName": "Araxys",
+    "country": "India",
+    "city": "Hyderabad",
+    "lat": 17.38,
+    "lng": 78.4719
+  },
+  {
+    "teamNumber": "29225",
+    "teamName": "Avengers Army",
+    "country": "India",
+    "city": "Hyderabad",
+    "lat": 17.3465,
+    "lng": 78.5365
+  },
+  {
+    "teamNumber": "33731",
+    "teamName": "VishwaBots",
+    "country": "India",
+    "city": "Pune",
+    "lat": 18.4907,
+    "lng": 73.8432
+  },
+  {
+    "teamNumber": "33734",
+    "teamName": "Sri Guru Granth Sahib Vidya Kender",
+    "country": "India",
+    "city": "Delhi",
+    "lat": 28.6234,
+    "lng": 77.2101
+  },
+  {
+    "teamNumber": "33735",
+    "teamName": "Shiksha Prayas",
+    "country": "India",
+    "city": "Gurugram",
+    "lat": 28.4359,
+    "lng": 77.0927
+  },
+  {
+    "teamNumber": "33736",
+    "teamName": "Satya School Gurugram Haryana",
+    "country": "India",
+    "city": "Gurugram",
+    "lat": 28.4024,
+    "lng": 76.9773
+  },
+  {
+    "teamNumber": "33737",
+    "teamName": "ATL GSSS Gudiakhera Sirsa Haryana",
+    "country": "India",
+    "city": "Sirsa",
+    "lat": 29.585,
+    "lng": 75.0439
+  },
+  {
+    "teamNumber": "33738",
+    "teamName": "ATL SPS Ellenabad Sirsa Haryana",
+    "country": "India",
+    "city": "Sirsa",
+    "lat": 29.5515,
+    "lng": 75.1086
+  },
+  {
+    "teamNumber": "33739",
+    "teamName": "ATL KV Rohtak Haryana",
+    "country": "India",
+    "city": "Rohtak",
+    "lat": 28.8781,
+    "lng": 76.5712
+  },
+  {
+    "teamNumber": "33829",
+    "teamName": "BossBotix",
+    "country": "India",
+    "city": "Mumbai",
+    "lat": 19.1277,
+    "lng": 72.898
+  },
+  {
+    "teamNumber": "34046",
+    "teamName": "Dragon Warriors",
+    "country": "India",
+    "city": "Ahmedabad",
+    "lat": 22.9538,
+    "lng": 72.5735
+  },
+  {
+    "teamNumber": "34125",
+    "teamName": "ATL DCS Haldwani Uttarakhand",
+    "country": "India",
+    "city": "Haldwani",
+    "lat": 29.1665,
+    "lng": 79.5795
+  },
+  {
+    "teamNumber": "34126",
+    "teamName": "ATL Supaul Bihar",
+    "country": "India",
+    "city": "Supaul",
+    "lat": 26.18,
+    "lng": 86.5481
+  },
+  {
+    "teamNumber": "31815",
+    "teamName": "Innov8Tigers",
+    "country": "India",
+    "city": "Bangalore",
+    "lat": 12.9321,
+    "lng": 77.6093
+  },
+  {
+    "teamNumber": "9747",
+    "teamName": "MARVEL",
+    "country": "South Korea",
+    "city": "NAMDONG-GU",
+    "lat": 37.4424,
+    "lng": 126.6721
+  },
+  {
+    "teamNumber": "23020",
+    "teamName": "TC",
+    "country": "South Korea",
+    "city": "Osan-si",
+    "lat": 37.1108,
+    "lng": 127.0194
+  },
+  {
+    "teamNumber": "23232",
+    "teamName": "SAKURA Tempesta",
+    "country": "Japan",
+    "city": "Chiba",
+    "lat": 35.6143,
+    "lng": 140.0678
+  },
+  {
+    "teamNumber": "24906",
+    "teamName": "TC",
+    "country": "South Korea",
+    "city": "Osan-si",
+    "lat": 37.1452,
+    "lng": 127.0327
+  },
+  {
+    "teamNumber": "25307",
+    "teamName": "ROBONETS",
+    "country": "South Korea",
+    "city": "Youngin",
+    "lat": 37.2588,
+    "lng": 127.1263
+  },
+  {
+    "teamNumber": "25309",
+    "teamName": "TALOS",
+    "country": "South Korea",
+    "city": "Busanjin-gu",
+    "lat": 35.1139,
+    "lng": 129.1306
+  },
+  {
+    "teamNumber": "25316",
+    "teamName": "Eagles",
+    "country": "South Korea",
+    "city": "Yeongju-Si",
+    "lat": 36.8236,
+    "lng": 128.6139
+  },
+  {
+    "teamNumber": "25319",
+    "teamName": "Prototype",
+    "country": "South Korea",
+    "city": "Suwon-si",
+    "lat": 37.3003,
+    "lng": 127.0328
+  },
+  {
+    "teamNumber": "25320",
+    "teamName": "뇌전탑(Tesla)",
+    "country": "South Korea",
+    "city": "Suwon-si",
+    "lat": 37.2668,
+    "lng": 127.0974
+  },
+  {
+    "teamNumber": "25321",
+    "teamName": "asic321",
+    "country": "South Korea",
+    "city": "Suwon-si",
+    "lat": 37.2333,
+    "lng": 126.982
+  },
+  {
+    "teamNumber": "25323",
+    "teamName": "S.P.I.R.I.T",
+    "country": "South Korea",
+    "city": "Hwaseong-si",
+    "lat": 37.2424,
+    "lng": 126.9133
+  },
+  {
+    "teamNumber": "25324",
+    "teamName": "S.P.I.R.I.T.",
+    "country": "South Korea",
+    "city": "Osan",
+    "lat": 37.162,
+    "lng": 127.0419
+  },
+  {
+    "teamNumber": "25327",
+    "teamName": "Bibimbap",
+    "country": "South Korea",
+    "city": "Anyangsi",
+    "lat": 37.4426,
+    "lng": 126.9377
+  },
+  {
+    "teamNumber": "25331",
+    "teamName": "깡통",
+    "country": "South Korea",
+    "city": "Cheonan-si",
+    "lat": 36.8697,
+    "lng": 127.1732
+  },
+  {
+    "teamNumber": "25362",
+    "teamName": "WOW",
+    "country": "South Korea",
+    "city": "Daejeon",
+    "lat": 36.3475,
+    "lng": 127.4674
+  },
+  {
+    "teamNumber": "26214",
+    "teamName": "Yukikaze Technology",
+    "country": "Japan",
+    "city": "Sapporo",
+    "lat": 43.1116,
+    "lng": 141.4127
+  },
+  {
+    "teamNumber": "28366",
+    "teamName": "Neighbor",
+    "country": "South Korea",
+    "city": "NAMDONG-GU",
+    "lat": 37.4506,
+    "lng": 126.7119
+  },
+  {
+    "teamNumber": "28613",
+    "teamName": "A.I.R.",
+    "country": "South Korea",
+    "city": "Hwaseong-si",
+    "lat": 37.199,
+    "lng": 126.7531
+  },
+  {
+    "teamNumber": "28615",
+    "teamName": "Roboheaven",
+    "country": "South Korea",
+    "city": "Gimpo-si",
+    "lat": 37.5471,
+    "lng": 126.7673
+  },
+  {
+    "teamNumber": "28636",
+    "teamName": "NEOLAB",
+    "country": "South Korea",
+    "city": "Dongtan",
+    "lat": 37.2704,
+    "lng": 127.0453
+  },
+  {
+    "teamNumber": "28646",
+    "teamName": "RAONBOT",
+    "country": "South Korea",
+    "city": "Pyeongtaek-si",
+    "lat": 37.0068,
+    "lng": 127.1605
+  },
+  {
+    "teamNumber": "28648",
+    "teamName": "MRT",
+    "country": "South Korea",
+    "city": "Gyeonggido",
+    "lat": 37.3609,
+    "lng": 127.5418
+  },
+  {
+    "teamNumber": "28649",
+    "teamName": "BI RYONG BOT",
+    "country": "South Korea",
+    "city": "Pyeongtaek-si",
+    "lat": 37.0465,
+    "lng": 127.1744
+  },
+  {
+    "teamNumber": "28651",
+    "teamName": "Robotics Revolution",
+    "country": "South Korea",
+    "city": "Anyangsi",
+    "lat": 37.3815,
+    "lng": 126.9946
+  },
+  {
+    "teamNumber": "28657",
+    "teamName": "Boreumgol Magpie",
+    "country": "South Korea",
+    "city": "Yeongju",
+    "lat": 36.8928,
+    "lng": 128.6873
+  },
+  {
+    "teamNumber": "28667",
+    "teamName": "R.I.P",
+    "country": "South Korea",
+    "city": "Yongin",
+    "lat": 37.2552,
+    "lng": 127.1715
+  },
+  {
+    "teamNumber": "28685",
+    "teamName": "MISSINGARAGE",
+    "country": "South Korea",
+    "city": "Gwangju",
+    "lat": 35.1299,
+    "lng": 126.9267
+  },
+  {
+    "teamNumber": "28691",
+    "teamName": "RGB",
+    "country": "South Korea",
+    "city": "Suwon",
+    "lat": 37.3121,
+    "lng": 126.9514
+  },
+  {
+    "teamNumber": "28752",
+    "teamName": "CPR",
+    "country": "South Korea",
+    "city": "Suwon",
+    "lat": 37.2311,
+    "lng": 127.1132
+  },
+  {
+    "teamNumber": "28612",
+    "teamName": "NOVA",
+    "country": "South Korea",
+    "city": "Gwangju",
+    "lat": 35.1925,
+    "lng": 126.8894
+  },
+  {
+    "teamNumber": "32461",
+    "teamName": "SRT",
+    "country": "South Korea",
+    "city": "Suwon-si",
+    "lat": 37.3089,
+    "lng": 127.0288
+  },
+  {
+    "teamNumber": "32523",
+    "teamName": "procode",
+    "country": "South Korea",
+    "city": "Yongin-si",
+    "lat": 37.1704,
+    "lng": 127.2233
+  },
+  {
+    "teamNumber": "32683",
+    "teamName": "메이커스",
+    "country": "South Korea",
+    "city": "Hwaseong-si",
+    "lat": 37.2368,
+    "lng": 126.7765
+  },
+  {
+    "teamNumber": "32337",
+    "teamName": "NorthWest CITY",
+    "country": "Japan",
+    "city": "Nerima",
+    "lat": 35.73,
+    "lng": 139.7389
+  },
+  {
+    "teamNumber": "32846",
+    "teamName": "SQRT",
+    "country": "South Korea",
+    "city": "Yongin-si",
+    "lat": 37.2828,
+    "lng": 127.2155
+  },
+  {
+    "teamNumber": "33604",
+    "teamName": "guerrilla",
+    "country": "South Korea",
+    "city": "Pyeongtaek City",
+    "lat": 37.0142,
+    "lng": 127.1495
+  },
+  {
+    "teamNumber": "33921",
+    "teamName": "YJMS PRIMUS",
+    "country": "South Korea",
+    "city": "Yeongju-si",
+    "lat": 36.8813,
+    "lng": 128.651
+  },
+  {
+    "teamNumber": "33979",
+    "teamName": "Dash in World",
+    "country": "South Korea",
+    "city": "Daejeon",
+    "lat": 36.2827,
+    "lng": 127.378
+  },
+  {
+    "teamNumber": "33980",
+    "teamName": "Mandarine Harubang",
+    "country": "South Korea",
+    "city": "Jeju-Si",
+    "lat": 33.5392,
+    "lng": 126.5886
+  },
+  {
+    "teamNumber": "33918",
+    "teamName": "BCR",
+    "country": "South Korea",
+    "city": "Yeongju",
+    "lat": 36.8397,
+    "lng": 128.6332
+  },
+  {
+    "teamNumber": "34061",
+    "teamName": "Team Machina",
+    "country": "South Korea",
+    "city": "Yongin-si",
+    "lat": 37.2289,
+    "lng": 127.2488
+  },
+  {
+    "teamNumber": "34062",
+    "teamName": "PMW",
+    "country": "South Korea",
+    "city": "Cheongju",
+    "lat": 36.5975,
+    "lng": 127.4464
+  },
+  {
+    "teamNumber": "34076",
+    "teamName": "apophis",
+    "country": "South Korea",
+    "city": "Gimpo-si",
+    "lat": 37.662,
+    "lng": 126.6771
+  },
+  {
+    "teamNumber": "34100",
+    "teamName": "BETA",
+    "country": "South Korea",
+    "city": "Bundang",
+    "lat": 37.327,
+    "lng": 127.193
+  },
+  {
+    "teamNumber": "34101",
+    "teamName": "NARO",
+    "country": "South Korea",
+    "city": "Bundang",
+    "lat": 37.4335,
+    "lng": 127.0776
+  },
+  {
+    "teamNumber": "34104",
+    "teamName": "AR 5-1",
+    "country": "South Korea",
+    "city": "Daejeon",
+    "lat": 36.3002,
+    "lng": 127.3555
+  },
+  {
+    "teamNumber": "34105",
+    "teamName": "AR 5-2",
+    "country": "South Korea",
+    "city": "Daejeon",
+    "lat": 36.4067,
+    "lng": 127.4201
+  },
+  {
+    "teamNumber": "34106",
+    "teamName": "AR 5-3",
+    "country": "South Korea",
+    "city": "Daejeon",
+    "lat": 36.3732,
+    "lng": 127.3047
+  },
+  {
+    "teamNumber": "34107",
+    "teamName": "AR 5-4",
+    "country": "South Korea",
+    "city": "Daejeon",
+    "lat": 36.3398,
+    "lng": 127.3693
+  },
+  {
+    "teamNumber": "34119",
+    "teamName": "Magnolia",
+    "country": "South Korea",
+    "city": "Dongdaemun-gu",
+    "lat": 37.5823,
+    "lng": 127.0798
+  },
+  {
+    "teamNumber": "33952",
+    "teamName": "HOYA",
+    "country": "South Korea",
+    "city": "Seoul",
+    "lat": 37.5621,
+    "lng": 127.0262
+  },
+  {
+    "teamNumber": "33892",
+    "teamName": "GloryBots",
+    "country": "South Korea",
+    "city": "Yeongju-si",
+    "lat": 36.8717,
+    "lng": 128.577
+  },
+  {
+    "teamNumber": "33863",
+    "teamName": "AURUM DYNAMICS",
+    "country": "South Korea",
+    "city": "Yeongju-si",
+    "lat": 36.862,
+    "lng": 128.6831
+  },
+  {
+    "teamNumber": "33955",
+    "teamName": "COMA",
+    "country": "South Korea",
+    "city": "Jung-gu",
+    "lat": 37.5997,
+    "lng": 127.0591
+  },
+  {
+    "teamNumber": "33957",
+    "teamName": "Evolve",
+    "country": "South Korea",
+    "city": "Samcheok",
+    "lat": 37.4188,
+    "lng": 129.1773
+  },
+  {
+    "teamNumber": "34056",
+    "teamName": "MPT",
+    "country": "South Korea",
+    "city": "Iksan-si",
+    "lat": 35.9642,
+    "lng": 126.8827
+  },
+  {
+    "teamNumber": "34049",
+    "teamName": "TRY",
+    "country": "South Korea",
+    "city": "Jeonju-si",
+    "lat": 35.7945,
+    "lng": 127.1644
+  },
+  {
+    "teamNumber": "33903",
+    "teamName": "pioneer",
+    "country": "South Korea",
+    "city": "Yecheon",
+    "lat": 36.6126,
+    "lng": 128.3949
+  },
+  {
+    "teamNumber": "33978",
+    "teamName": "Oryza",
+    "country": "South Korea",
+    "city": "Yongsan-gu",
+    "lat": 37.4991,
+    "lng": 126.9184
+  },
+  {
+    "teamNumber": "34099",
+    "teamName": "EXP",
+    "country": "South Korea",
+    "city": "Jingu",
+    "lat": 35.1575,
+    "lng": 128.1154
+  },
+  {
+    "teamNumber": "33966",
+    "teamName": "Halim A.I.R",
+    "country": "South Korea",
+    "city": "Jeju-si",
+    "lat": 33.4466,
+    "lng": 126.5849
+  },
+  {
+    "teamNumber": "33681",
+    "teamName": "STHS",
+    "country": "South Korea",
+    "city": "Suwon",
+    "lat": 37.2267,
+    "lng": 127.0252
+  },
+  {
+    "teamNumber": "25315",
+    "teamName": "Dee",
+    "country": "South Korea",
+    "city": "Yeongju-Si",
+    "lat": 36.8571,
+    "lng": 128.5493
+  },
+  {
+    "teamNumber": "25336",
+    "teamName": "Zeus",
+    "country": "South Korea",
+    "city": "Anyangsi",
+    "lat": 37.4214,
+    "lng": 126.9793
+  },
+  {
+    "teamNumber": "25341",
+    "teamName": "Boreumgol Tiger",
+    "country": "South Korea",
+    "city": "Yeongju",
+    "lat": 36.8261,
+    "lng": 128.6074
+  },
+  {
+    "teamNumber": "12560",
+    "teamName": "Soft Hoarders",
+    "country": "Romania",
+    "city": "Craiova",
+    "lat": 44.2824,
+    "lng": 23.7112
+  },
+  {
+    "teamNumber": "14270",
+    "teamName": "Quantum Robotics",
+    "country": "Romania",
+    "city": "Bucharest",
+    "lat": 44.4228,
+    "lng": 26.1804
+  },
+  {
+    "teamNumber": "14278",
+    "teamName": "Xeo",
+    "country": "Romania",
+    "city": "Alba Iulia",
+    "lat": 46.0751,
+    "lng": 23.6374
+  },
+  {
+    "teamNumber": "15972",
+    "teamName": "TehnoZ",
+    "country": "Romania",
+    "city": "Pitesti",
+    "lat": 44.8839,
+    "lng": 24.9476
+  },
+  {
+    "teamNumber": "15989",
+    "teamName": "RoboTitans",
+    "country": "Romania",
+    "city": "București",
+    "lat": 44.4481,
+    "lng": 26.0242
+  },
+  {
+    "teamNumber": "15991",
+    "teamName": "Gamma",
+    "country": "Romania",
+    "city": "București",
+    "lat": 44.3811,
+    "lng": 26.1534
+  },
+  {
+    "teamNumber": "15993",
+    "teamName": "infO(1)Robotics",
+    "country": "Romania",
+    "city": "Ploiești",
+    "lat": 44.9682,
+    "lng": 26.0227
+  },
+  {
+    "teamNumber": "15996",
+    "teamName": "BrickBot",
+    "country": "Romania",
+    "city": "Focsani",
+    "lat": 45.7598,
+    "lng": 27.1975
+  },
+  {
+    "teamNumber": "16166",
+    "teamName": "Watt'S Up",
+    "country": "Romania",
+    "city": "Campulung",
+    "lat": 45.2436,
+    "lng": 25.0629
+  },
+  {
+    "teamNumber": "17713",
+    "teamName": "Delta Force",
+    "country": "Romania",
+    "city": "Arad",
+    "lat": 46.18,
+    "lng": 21.4011
+  },
+  {
+    "teamNumber": "17860",
+    "teamName": "Helix",
+    "country": "Romania",
+    "city": "Braila",
+    "lat": 45.2634,
+    "lng": 28.0002
+  },
+  {
+    "teamNumber": "17861",
+    "teamName": "CSH",
+    "country": "Romania",
+    "city": "Timisoara",
+    "lat": 45.7099,
+    "lng": 21.1548
+  },
+  {
+    "teamNumber": "17873",
+    "teamName": "Vectron Robotics",
+    "country": "Romania",
+    "city": "Dej",
+    "lat": 47.1244,
+    "lng": 23.8503
+  },
+  {
+    "teamNumber": "17965",
+    "teamName": "Bolts and Gears",
+    "country": "Romania",
+    "city": "Bistrita",
+    "lat": 47.1161,
+    "lng": 24.4813
+  },
+  {
+    "teamNumber": "18160",
+    "teamName": "4D-Robotics",
+    "country": "Romania",
+    "city": "Pitesti",
+    "lat": 44.8934,
+    "lng": 24.8562
+  },
+  {
+    "teamNumber": "18338",
+    "teamName": "StarTech",
+    "country": "Romania",
+    "city": "Satu Mare",
+    "lat": 47.7525,
+    "lng": 22.8566
+  },
+  {
+    "teamNumber": "19043",
+    "teamName": "CyLiis",
+    "country": "Romania",
+    "city": "Iasi",
+    "lat": 47.1892,
+    "lng": 27.5757
+  },
+  {
+    "teamNumber": "19044",
+    "teamName": "Peppers",
+    "country": "Romania",
+    "city": "Iasi",
+    "lat": 47.1558,
+    "lng": 27.6403
+  },
+  {
+    "teamNumber": "19047",
+    "teamName": "RavenTech_HD",
+    "country": "Romania",
+    "city": "Hunedoara",
+    "lat": 45.8054,
+    "lng": 22.9741
+  },
+  {
+    "teamNumber": "19048",
+    "teamName": "ROBOPAPIU",
+    "country": "Romania",
+    "city": "Târgu Mureș",
+    "lat": 46.5489,
+    "lng": 24.5138
+  },
+  {
+    "teamNumber": "19049",
+    "teamName": "High Five",
+    "country": "Romania",
+    "city": "Pitesti",
+    "lat": 44.8275,
+    "lng": 24.8834
+  },
+  {
+    "teamNumber": "19053",
+    "teamName": "Homosapiens",
+    "country": "Romania",
+    "city": "Buzău",
+    "lat": 45.1326,
+    "lng": 26.7329
+  },
+  {
+    "teamNumber": "19054",
+    "teamName": "NeuroBotix",
+    "country": "Romania",
+    "city": "Bucharest",
+    "lat": 44.3702,
+    "lng": 26.0825
+  },
+  {
+    "teamNumber": "19056",
+    "teamName": "PrimeTech",
+    "country": "Romania",
+    "city": "Cluj-Napoca",
+    "lat": 46.7872,
+    "lng": 23.5527
+  },
+  {
+    "teamNumber": "19061",
+    "teamName": "Boogeybots",
+    "country": "Romania",
+    "city": "Ramnicu Sarat",
+    "lat": 45.3719,
+    "lng": 27.1198
+  },
+  {
+    "teamNumber": "19062",
+    "teamName": "Phantom Robotics",
+    "country": "Romania",
+    "city": "Targoviste",
+    "lat": 44.8805,
+    "lng": 25.4134
+  },
+  {
+    "teamNumber": "19064",
+    "teamName": "Dragonic Force",
+    "country": "Romania",
+    "city": "Medgidia",
+    "lat": 44.2786,
+    "lng": 28.3467
+  },
+  {
+    "teamNumber": "19066",
+    "teamName": "AiCitizens",
+    "country": "Romania",
+    "city": "Focsani",
+    "lat": 45.6576,
+    "lng": 27.2209
+  },
+  {
+    "teamNumber": "19067",
+    "teamName": "BIONIC ROYALS",
+    "country": "Romania",
+    "city": "Ramnicu Valcea",
+    "lat": 45.1682,
+    "lng": 24.2865
+  },
+  {
+    "teamNumber": "19068",
+    "teamName": "ABSO-TECH",
+    "country": "Romania",
+    "city": "Gherla",
+    "lat": 47.0657,
+    "lng": 23.8932
+  },
+  {
+    "teamNumber": "19071",
+    "teamName": "SmartCluster",
+    "country": "Romania",
+    "city": "Bacau",
+    "lat": 46.5013,
+    "lng": 26.911
+  },
+  {
+    "teamNumber": "19075",
+    "teamName": "Clockworks",
+    "country": "Romania",
+    "city": "Bucharest",
+    "lat": 44.3675,
+    "lng": 26.1795
+  },
+  {
+    "teamNumber": "19079",
+    "teamName": "PHOENIX",
+    "country": "Romania",
+    "city": "Cluj-Napoca",
+    "lat": 46.7177,
+    "lng": 23.599
+  },
+  {
+    "teamNumber": "19082",
+    "teamName": "RoboAS",
+    "country": "Romania",
+    "city": "Brasov",
+    "lat": 45.6443,
+    "lng": 25.5898
+  },
+  {
+    "teamNumber": "19084",
+    "teamName": "Zenith",
+    "country": "Romania",
+    "city": "Bucharest",
+    "lat": 44.4864,
+    "lng": 26.0411
+  },
+  {
+    "teamNumber": "19085",
+    "teamName": "IDeaL Electronics",
+    "country": "Romania",
+    "city": "Cugir",
+    "lat": 45.8699,
+    "lng": 23.3727
+  },
+  {
+    "teamNumber": "19088",
+    "teamName": "BROBOTS",
+    "country": "Romania",
+    "city": "Râmnicu Vâlcea",
+    "lat": 45.1695,
+    "lng": 24.3876
+  },
+  {
+    "teamNumber": "19091",
+    "teamName": "The Resistance",
+    "country": "Romania",
+    "city": "Medias",
+    "lat": 46.1271,
+    "lng": 24.3814
+  },
+  {
+    "teamNumber": "19097",
+    "teamName": "Quasar.Robotics",
+    "country": "Romania",
+    "city": "Husi",
+    "lat": 46.7184,
+    "lng": 28.1171
+  },
+  {
+    "teamNumber": "19098",
+    "teamName": "Eastern Foxes",
+    "country": "Romania",
+    "city": "Ploiesti",
+    "lat": 44.9519,
+    "lng": 25.9648
+  },
+  {
+    "teamNumber": "19099",
+    "teamName": "H-tech",
+    "country": "Romania",
+    "city": "Bucuresti",
+    "lat": 44.4025,
+    "lng": 26.1074
+  },
+  {
+    "teamNumber": "19101",
+    "teamName": "Tech-X",
+    "country": "Romania",
+    "city": "Sighetu Marmației",
+    "lat": 47.9805,
+    "lng": 23.8426
+  },
+  {
+    "teamNumber": "19104",
+    "teamName": "CyberPunk Robotics",
+    "country": "Romania",
+    "city": "Turda",
+    "lat": 46.5242,
+    "lng": 23.7555
+  },
+  {
+    "teamNumber": "19105",
+    "teamName": "DecebalTech",
+    "country": "Romania",
+    "city": "Deva",
+    "lat": 45.9347,
+    "lng": 22.9351
+  },
+  {
+    "teamNumber": "19112",
+    "teamName": "UNDEFINED",
+    "country": "Romania",
+    "city": "Campina",
+    "lat": 45.0885,
+    "lng": 25.6824
+  },
+  {
+    "teamNumber": "19115",
+    "teamName": "B-Robo",
+    "country": "Romania",
+    "city": "Satu Mare",
+    "lat": 47.7941,
+    "lng": 22.8463
+  },
+  {
+    "teamNumber": "19116",
+    "teamName": "VV Robots",
+    "country": "Romania",
+    "city": "Curtea de Argeș",
+    "lat": 45.1086,
+    "lng": 24.6999
+  },
+  {
+    "teamNumber": "19117",
+    "teamName": "Robo-Sapiens",
+    "country": "Romania",
+    "city": "Bucuresti",
+    "lat": 44.3602,
+    "lng": 26.0105
+  },
+  {
+    "teamNumber": "19120",
+    "teamName": "AlphaBit",
+    "country": "Romania",
+    "city": "Petrosani",
+    "lat": 45.3868,
+    "lng": 23.2964
+  },
+  {
+    "teamNumber": "19121",
+    "teamName": "Tea Borgs",
+    "country": "Romania",
+    "city": "Târgu Jiu",
+    "lat": 44.9793,
+    "lng": 23.263
+  },
+  {
+    "teamNumber": "19134",
+    "teamName": "Leaf Robotics",
+    "country": "Romania",
+    "city": "Braila",
+    "lat": 45.3354,
+    "lng": 27.8861
+  },
+  {
+    "teamNumber": "19139",
+    "teamName": "SnakeTech",
+    "country": "Romania",
+    "city": "Piatra Neamt",
+    "lat": 46.9671,
+    "lng": 26.4432
+  },
+  {
+    "teamNumber": "19141",
+    "teamName": "BraveBots",
+    "country": "Romania",
+    "city": "Ploiesti",
+    "lat": 44.9131,
+    "lng": 26.0434
+  },
+  {
+    "teamNumber": "19143",
+    "teamName": "HEX",
+    "country": "Romania",
+    "city": "Braila",
+    "lat": 45.3142,
+    "lng": 27.9277
+  },
+  {
+    "teamNumber": "19152",
+    "teamName": "Brainstorms",
+    "country": "Romania",
+    "city": "Zalau",
+    "lat": 47.2071,
+    "lng": 23.0672
+  },
+  {
+    "teamNumber": "19176",
+    "teamName": "Broboți",
+    "country": "Romania",
+    "city": "Pitesti",
+    "lat": 44.918,
+    "lng": 24.8101
+  },
+  {
+    "teamNumber": "19234",
+    "teamName": "ByteForce",
+    "country": "Romania",
+    "city": "Galați",
+    "lat": 45.3784,
+    "lng": 27.9621
+  },
+  {
+    "teamNumber": "19256",
+    "teamName": "CyberMoon",
+    "country": "Romania",
+    "city": "Timisoara",
+    "lat": 45.7932,
+    "lng": 21.2997
+  },
+  {
+    "teamNumber": "20043",
+    "teamName": "SNGine",
+    "country": "Romania",
+    "city": "Medias",
+    "lat": 46.1932,
+    "lng": 24.3397
+  },
+  {
+    "teamNumber": "20732",
+    "teamName": "ATLAS_CNB_192",
+    "country": "Romania",
+    "city": "Timisoara",
+    "lat": 45.6863,
+    "lng": 21.2788
+  },
+  {
+    "teamNumber": "20912",
+    "teamName": "Harambe Cartel",
+    "country": "Romania",
+    "city": "Arad",
+    "lat": 46.1015,
+    "lng": 21.3004
+  },
+  {
+    "teamNumber": "20936",
+    "teamName": "Royal Engineers",
+    "country": "Romania",
+    "city": "Bucharest",
+    "lat": 44.3984,
+    "lng": 26.0173
+  },
+  {
+    "teamNumber": "20965",
+    "teamName": "BIT-MO",
+    "country": "Romania",
+    "city": "Bucharest",
+    "lat": 44.4081,
+    "lng": 26.0913
+  },
+  {
+    "teamNumber": "21028",
+    "teamName": "The Eagles RO143",
+    "country": "Romania",
+    "city": "Bucharest",
+    "lat": 44.4001,
+    "lng": 26.0224
+  },
+  {
+    "teamNumber": "26075",
+    "teamName": "Vampire Robotics",
+    "country": "Romania",
+    "city": "Bucharest",
+    "lat": 44.3675,
+    "lng": 26.1795
+  },
+  {
+    "teamNumber": "32868",
+    "teamName": "LittleHearts",
+    "country": "Romania",
+    "city": "Buzau",
+    "lat": 45.1577,
+    "lng": 26.8412
+  },
+  {
+    "teamNumber": "21059",
+    "teamName": "XLNC qTECH",
+    "country": "Kazakhstan",
+    "city": "Astana",
+    "lat": 51.2249,
+    "lng": 71.3916
+  },
+  {
+    "teamNumber": "21062",
+    "teamName": "QUANT",
+    "country": "Kazakhstan",
+    "city": "Astana",
+    "lat": 51.1245,
+    "lng": 71.4054
+  },
+  {
+    "teamNumber": "21094",
+    "teamName": "North Star",
+    "country": "Kazakhstan",
+    "city": "Astana",
+    "lat": 51.1738,
+    "lng": 71.4933
+  },
+  {
+    "teamNumber": "22801",
+    "teamName": "Bolt.m3",
+    "country": "Kazakhstan",
+    "city": "Almaty",
+    "lat": 43.2465,
+    "lng": 76.9556
+  },
+  {
+    "teamNumber": "22958",
+    "teamName": "POINT",
+    "country": "Kazakhstan",
+    "city": "Almaty",
+    "lat": 43.1733,
+    "lng": 77.021
+  },
+  {
+    "teamNumber": "22975",
+    "teamName": "BilOrda",
+    "country": "Kazakhstan",
+    "city": "Astana",
+    "lat": 51.2355,
+    "lng": 71.3635
+  },
+  {
+    "teamNumber": "24690",
+    "teamName": "AZUMI",
+    "country": "Kazakhstan",
+    "city": "Uralsk",
+    "lat": 51.1756,
+    "lng": 51.4048
+  },
+  {
+    "teamNumber": "24783",
+    "teamName": "Venom",
+    "country": "Kazakhstan",
+    "city": "Astana",
+    "lat": 51.2198,
+    "lng": 71.3765
+  },
+  {
+    "teamNumber": "24804",
+    "teamName": "xCeption",
+    "country": "Kazakhstan",
+    "city": "Astana",
+    "lat": 51.2172,
+    "lng": 71.4735
+  },
+  {
+    "teamNumber": "24935",
+    "teamName": "Antares",
+    "country": "Kazakhstan",
+    "city": "Almaty",
+    "lat": 43.2429,
+    "lng": 76.9747
+  },
+  {
+    "teamNumber": "25054",
+    "teamName": "iRYS",
+    "country": "Kazakhstan",
+    "city": "Almaty",
+    "lat": 43.1812,
+    "lng": 76.9245
+  },
+  {
+    "teamNumber": "25193",
+    "teamName": "Sipinine",
+    "country": "Kazakhstan",
+    "city": "Kokshetau",
+    "lat": 53.3352,
+    "lng": 69.3577
+  },
+  {
+    "teamNumber": "25202",
+    "teamName": "Spark team",
+    "country": "Kazakhstan",
+    "city": "Aktau",
+    "lat": 43.6811,
+    "lng": 51.2002
+  },
+  {
+    "teamNumber": "25272",
+    "teamName": "Bil-Barbie",
+    "country": "Kazakhstan",
+    "city": "Almaty",
+    "lat": 43.3069,
+    "lng": 76.9716
+  },
+  {
+    "teamNumber": "25300",
+    "teamName": "URAN 92",
+    "country": "Kazakhstan",
+    "city": "Almaty",
+    "lat": 43.21,
+    "lng": 76.981
+  },
+  {
+    "teamNumber": "25528",
+    "teamName": "Nomadic.Dragons.FTC",
+    "country": "Kazakhstan",
+    "city": "Astana",
+    "lat": 51.2121,
+    "lng": 71.4584
+  },
+  {
+    "teamNumber": "25547",
+    "teamName": "SPIRIT",
+    "country": "Kazakhstan",
+    "city": "Astana",
+    "lat": 51.1364,
+    "lng": 71.4261
+  },
+  {
+    "teamNumber": "25556",
+    "teamName": "Tengri",
+    "country": "Kazakhstan",
+    "city": "Semey",
+    "lat": 50.3572,
+    "lng": 80.2467
+  },
+  {
+    "teamNumber": "26602",
+    "teamName": "Water7",
+    "country": "Kazakhstan",
+    "city": "Zhylandy",
+    "lat": 49.6871,
+    "lng": 73.4912
+  },
+  {
+    "teamNumber": "26946",
+    "teamName": "neura",
+    "country": "Kazakhstan",
+    "city": "Almaty",
+    "lat": 43.2948,
+    "lng": 76.9655
+  },
+  {
+    "teamNumber": "27057",
+    "teamName": "ELIS",
+    "country": "Kazakhstan",
+    "city": "Shymkent",
+    "lat": 42.2998,
+    "lng": 69.5883
+  },
+  {
+    "teamNumber": "27777",
+    "teamName": "Tech Nomads",
+    "country": "Kazakhstan",
+    "city": "Karaganda",
+    "lat": 49.7776,
+    "lng": 73.1647
+  },
+  {
+    "teamNumber": "28300",
+    "teamName": "xCellence",
+    "country": "Kazakhstan",
+    "city": "Astana",
+    "lat": 51.141,
+    "lng": 71.485
+  },
+  {
+    "teamNumber": "28659",
+    "teamName": "Hotwheels",
+    "country": "Kazakhstan",
+    "city": "Astana",
+    "lat": 51.1689,
+    "lng": 71.4636
+  },
+  {
+    "teamNumber": "28745",
+    "teamName": "InfernoX",
+    "country": "Kazakhstan",
+    "city": "Semey",
+    "lat": 50.4733,
+    "lng": 80.2199
+  },
+  {
+    "teamNumber": "28862",
+    "teamName": "Red Lotus",
+    "country": "Kazakhstan",
+    "city": "Burabay",
+    "lat": 53.1505,
+    "lng": 70.2924
+  },
+  {
+    "teamNumber": "28888",
+    "teamName": "errorda",
+    "country": "Kazakhstan",
+    "city": "Almaty",
+    "lat": 43.2755,
+    "lng": 76.9976
+  },
+  {
+    "teamNumber": "29112",
+    "teamName": "SPIRIT JUNIOR",
+    "country": "Kazakhstan",
+    "city": "Esik",
+    "lat": 43.3175,
+    "lng": 77.3994
+  },
+  {
+    "teamNumber": "29382",
+    "teamName": "Flying Penguins",
+    "country": "Kazakhstan",
+    "city": "Astana",
+    "lat": 51.1973,
+    "lng": 71.3838
+  },
+  {
+    "teamNumber": "30326",
+    "teamName": "FUTURE VORTEX",
+    "country": "Kazakhstan",
+    "city": "Almaty",
+    "lat": 43.18,
+    "lng": 76.8611
+  },
+  {
+    "teamNumber": "31881",
+    "teamName": "Qazaq style",
+    "country": "Kazakhstan",
+    "city": "Almaty",
+    "lat": 43.2297,
+    "lng": 76.9052
+  },
+  {
+    "teamNumber": "32535",
+    "teamName": "OYU",
+    "country": "Kazakhstan",
+    "city": "Almaty",
+    "lat": 43.1869,
+    "lng": 76.8667
+  },
+  {
+    "teamNumber": "32635",
+    "teamName": "mooneye",
+    "country": "Kazakhstan",
+    "city": "Atyrau",
+    "lat": 47.0569,
+    "lng": 52.0077
+  },
+  {
+    "teamNumber": "32685",
+    "teamName": "FiftyOne Teams",
+    "country": "Kazakhstan",
+    "city": "Semey",
+    "lat": 50.3809,
+    "lng": 80.3027
+  },
+  {
+    "teamNumber": "32717",
+    "teamName": "ThunderBolts",
+    "country": "Kazakhstan",
+    "city": "Almaty",
+    "lat": 43.2572,
+    "lng": 76.9275
+  },
+  {
+    "teamNumber": "32728",
+    "teamName": "Celestial",
+    "country": "Kazakhstan",
+    "city": "Shuchinsk",
+    "lat": 52.8691,
+    "lng": 70.1624
+  },
+  {
+    "teamNumber": "33007",
+    "teamName": "espada",
+    "country": "Kazakhstan",
+    "city": "Almaty",
+    "lat": 43.2138,
+    "lng": 76.9473
+  },
+  {
+    "teamNumber": "33033",
+    "teamName": "TGJ",
+    "country": "Kazakhstan",
+    "city": "Almaty",
+    "lat": 43.1838,
+    "lng": 77.0075
+  },
+  {
+    "teamNumber": "33339",
+    "teamName": "PHOBOS",
+    "country": "Kazakhstan",
+    "city": "Almaty",
+    "lat": 43.3051,
+    "lng": 76.9812
+  },
+  {
+    "teamNumber": "33422",
+    "teamName": "Sirius",
+    "country": "Kazakhstan",
+    "city": "Almaty",
+    "lat": 43.1879,
+    "lng": 76.9446
+  },
+  {
+    "teamNumber": "33423",
+    "teamName": "AltynGear",
+    "country": "Kazakhstan",
+    "city": "Taldykorgan",
+    "lat": 45.0734,
+    "lng": 78.4393
+  },
+  {
+    "teamNumber": "33425",
+    "teamName": "B.R.U.H",
+    "country": "Kazakhstan",
+    "city": "Almaty",
+    "lat": 43.2275,
+    "lng": 76.9585
+  },
+  {
+    "teamNumber": "33444",
+    "teamName": "UlyDala",
+    "country": "Kazakhstan",
+    "city": "Almaty",
+    "lat": 43.2918,
+    "lng": 76.9263
+  },
+  {
+    "teamNumber": "33483",
+    "teamName": "AKITA",
+    "country": "Kazakhstan",
+    "city": "Atyrau",
+    "lat": 47.1028,
+    "lng": 51.9055
+  },
+  {
+    "teamNumber": "33500",
+    "teamName": "F15",
+    "country": "Kazakhstan",
+    "city": "Almaty",
+    "lat": 43.238,
+    "lng": 76.945
+  },
+  {
+    "teamNumber": "33611",
+    "teamName": "OVERTIME",
+    "country": "Kazakhstan",
+    "city": "Shymkent",
+    "lat": 42.3829,
+    "lng": 69.5678
+  },
+  {
+    "teamNumber": "33624",
+    "teamName": "STRIKE",
+    "country": "Kazakhstan",
+    "city": "Shymkent",
+    "lat": 42.368,
+    "lng": 69.5079
+  },
+  {
+    "teamNumber": "33655",
+    "teamName": "AlemX",
+    "country": "Kazakhstan",
+    "city": "Aktau",
+    "lat": 43.6437,
+    "lng": 51.1331
+  },
+  {
+    "teamNumber": "33680",
+    "teamName": "Atomic Heart",
+    "country": "Kazakhstan",
+    "city": "Shymkent",
+    "lat": 42.3142,
+    "lng": 69.5266
+  },
+  {
+    "teamNumber": "33785",
+    "teamName": "unionTUR",
+    "country": "Kazakhstan",
+    "city": "Turkistan Region",
+    "lat": 43.2839,
+    "lng": 68.3167
+  },
+  {
+    "teamNumber": "33833",
+    "teamName": "SunRise",
+    "country": "Kazakhstan",
+    "city": "Almaty",
+    "lat": 43.2958,
+    "lng": 76.8635
+  },
+  {
+    "teamNumber": "33888",
+    "teamName": "140RPM",
+    "country": "Kazakhstan",
+    "city": "Almaty",
+    "lat": 43.2755,
+    "lng": 76.9976
+  },
+  {
+    "teamNumber": "33929",
+    "teamName": "GAMBIT",
+    "country": "Kazakhstan",
+    "city": "Aktobe",
+    "lat": 50.3457,
+    "lng": 57.169
+  },
+  {
+    "teamNumber": "33951",
+    "teamName": "Speed Setters",
+    "country": "Kazakhstan",
+    "city": "Aktau",
+    "lat": 43.6795,
+    "lng": 51.1806
+  },
+  {
+    "teamNumber": "34025",
+    "teamName": "Sky",
+    "country": "Kyrgyzstan",
+    "city": "Bishkek",
+    "lat": 42.8085,
+    "lng": 74.6745
+  },
+  {
+    "teamNumber": "34078",
+    "teamName": "JOOX",
+    "country": "Kazakhstan",
+    "city": "Aktobe",
+    "lat": 50.2601,
+    "lng": 57.0774
+  },
+  {
+    "teamNumber": "34193",
+    "teamName": "Decode Dynamics",
+    "country": "Kazakhstan",
+    "city": "Turkistan",
+    "lat": 43.3492,
+    "lng": 68.2137
+  },
+  {
+    "teamNumber": "34216",
+    "teamName": "iRAZ",
+    "country": "Kazakhstan",
+    "city": "Taraz",
+    "lat": 42.8816,
+    "lng": 71.3749
+  },
+  {
+    "teamNumber": "34226",
+    "teamName": "NaYza",
+    "country": "Kazakhstan",
+    "city": "Astana",
+    "lat": 51.237,
+    "lng": 71.3831
+  },
+  {
+    "teamNumber": "34240",
+    "teamName": "PowerX",
+    "country": "Uzbekistan",
+    "city": "Tashkent",
+    "lat": 41.3186,
+    "lng": 69.1788
+  },
+  {
+    "teamNumber": "34241",
+    "teamName": "NazarX",
+    "country": "Uzbekistan",
+    "city": "Tashkent",
+    "lat": 41.2851,
+    "lng": 69.2434
+  },
+  {
+    "teamNumber": "21087",
+    "teamName": "Velocity",
+    "country": "Romania",
+    "city": "Braila",
+    "lat": 45.228,
+    "lng": 27.9089
+  },
+  {
+    "teamNumber": "22226",
+    "teamName": "Renaissance Robotics",
+    "country": "Romania",
+    "city": "Timisoara",
+    "lat": 45.817,
+    "lng": 21.1611
+  },
+  {
+    "teamNumber": "23486",
+    "teamName": "Seramitae",
+    "country": "Romania",
+    "city": "Galati",
+    "lat": 45.4834,
+    "lng": 28.0433
+  },
+  {
+    "teamNumber": "25916",
+    "teamName": "EngiNeerds NextGen",
+    "country": "Romania",
+    "city": "Slatina",
+    "lat": 44.3706,
+    "lng": 24.4259
+  },
+  {
+    "teamNumber": "9879",
+    "teamName": "Root Negative One",
+    "country": "USA",
+    "city": "Springdale",
+    "lat": 36.1867,
+    "lng": -94.1288
+  },
+  {
+    "teamNumber": "8680",
+    "teamName": "Kraken-Pinion",
+    "country": "USA",
+    "city": "Mequon",
+    "lat": 43.2242,
+    "lng": -87.9601
+  },
+  {
+    "teamNumber": "11329",
+    "teamName": "I.C.E. Robotics",
+    "country": "USA",
+    "city": "Bloomington",
+    "lat": 39.1653,
+    "lng": -86.5264
+  },
+  {
+    "teamNumber": "10084",
+    "teamName": "Team Calamari",
+    "country": "USA",
+    "city": "Columbus",
+    "lat": 39.9623,
+    "lng": -83.0007
+  },
+  {
+    "teamNumber": "21936",
+    "teamName": "SaMoTech",
+    "country": "USA",
+    "city": "Santa Monica",
+    "lat": 34.028,
+    "lng": -118.47
+  },
+  {
+    "teamNumber": "10255",
+    "teamName": "RoboDux",
+    "country": "USA",
+    "city": "Zeeland",
+    "lat": 42.8116,
+    "lng": -86.0165
+  },
+  {
+    "teamNumber": "6962",
+    "teamName": "Pokébolts",
+    "country": "USA",
+    "city": "Honolulu",
+    "lat": 21.3045,
+    "lng": -157.8557
+  },
+  {
+    "teamNumber": "16917",
+    "teamName": "Gear Wizards",
+    "country": "USA",
+    "city": "Elk River",
+    "lat": 45.3039,
+    "lng": -93.5672
+  },
+  {
+    "teamNumber": "506",
+    "teamName": "Pandara",
+    "country": "USA",
+    "city": "Palm Harbor",
+    "lat": 28.0839,
+    "lng": -82.7539
+  },
+  {
+    "teamNumber": "16236",
+    "teamName": "Juice",
+    "country": "USA",
+    "city": "Folsom",
+    "lat": 38.678,
+    "lng": -121.176
+  },
+  {
+    "teamNumber": "6133",
+    "teamName": "The \"NUTS!\"",
+    "country": "USA",
+    "city": "Cincinnati",
+    "lat": 39.1031,
+    "lng": -84.512
+  },
+  {
+    "teamNumber": "14525",
+    "teamName": "TerraBats",
+    "country": "USA",
+    "city": "San Jose",
+    "lat": 37.3382,
+    "lng": -121.8863
+  },
+  {
+    "teamNumber": "23305",
+    "teamName": "Creative Minds",
+    "country": "USA",
+    "city": "Bellevue",
+    "lat": 47.6101,
+    "lng": -122.2015
+  },
+  {
+    "teamNumber": "9808",
+    "teamName": "Team Chargers",
+    "country": "USA",
+    "city": "Olathe",
+    "lat": 38.8814,
+    "lng": -94.8191
+  },
+  {
+    "teamNumber": "13100",
+    "teamName": "47 Beavers",
+    "country": "USA",
+    "city": "Boyds",
+    "lat": 39.1832,
+    "lng": -77.305
+  },
+  {
+    "teamNumber": "12331",
+    "teamName": "Scarsdale Robo Raiders",
+    "country": "USA",
+    "city": "Scarsdale",
+    "lat": 40.9882,
+    "lng": -73.7949
+  },
+  {
+    "teamNumber": "23623",
+    "teamName": "Hydra Dragons",
+    "country": "USA",
+    "city": "Lake Orion",
+    "lat": 42.7842,
+    "lng": -83.2397
+  },
+  {
+    "teamNumber": "1002",
+    "teamName": "CircuitRunners Robotics - Surge",
+    "country": "USA",
+    "city": "Marietta",
+    "lat": 33.9526,
+    "lng": -84.5499
+  },
+  {
+    "teamNumber": "11444",
+    "teamName": "Garnet Squadron",
+    "country": "USA",
+    "city": "Columbia",
+    "lat": 34.0007,
+    "lng": -81.0348
+  },
+  {
+    "teamNumber": "15668",
+    "teamName": "FullMetal Kestrels",
+    "country": "USA",
+    "city": "Middletown",
+    "lat": 41.5623,
+    "lng": -72.6506
+  },
+  {
+    "teamNumber": "25957",
+    "teamName": "Quantum Igniters",
+    "country": "USA",
+    "city": "West Des Moines",
+    "lat": 41.5645,
+    "lng": -93.7597
+  },
+  {
+    "teamNumber": "10138",
+    "teamName": "Newton Busters",
+    "country": "USA",
+    "city": "Wilmette",
+    "lat": 42.0723,
+    "lng": -87.7228
+  },
+  {
+    "teamNumber": "365",
+    "teamName": "MOE",
+    "country": "USA",
+    "city": "Wilmington",
+    "lat": 39.7391,
+    "lng": -75.5398
+  },
+  {
+    "teamNumber": "22105",
+    "teamName": "Runtime Terror",
+    "country": "USA",
+    "city": "San Diego",
+    "lat": 32.7157,
+    "lng": -117.1611
+  },
+  {
+    "teamNumber": "19955",
+    "teamName": "BHS - Robo Rangers",
+    "country": "USA",
+    "city": "Bushland",
+    "lat": 35.1901,
+    "lng": -102.0646
+  },
+  {
+    "teamNumber": "24219",
+    "teamName": "Duck Robotics",
+    "country": "USA",
+    "city": "Rockville",
+    "lat": 39.084,
+    "lng": -77.1528
+  },
+  {
+    "teamNumber": "17288",
+    "teamName": "Rubber Bandits",
+    "country": "USA",
+    "city": "Orlando",
+    "lat": 28.5383,
+    "lng": -81.3792
+  },
+  {
+    "teamNumber": "21225",
+    "teamName": "Shear Force",
+    "country": "USA",
+    "city": "St. Peters",
+    "lat": 38.7875,
+    "lng": -90.6299
+  },
+  {
+    "teamNumber": "20131",
+    "teamName": "The Inventors",
+    "country": "USA",
+    "city": "Athens",
+    "lat": 33.9519,
+    "lng": -83.3576
+  },
+  {
+    "teamNumber": "20515",
+    "teamName": "Cubed ETs",
+    "country": "USA",
+    "city": "Taylorsville",
+    "lat": 40.6677,
+    "lng": -111.9388
+  },
+  {
+    "teamNumber": "7477",
+    "teamName": "Super 7",
+    "country": "USA",
+    "city": "Oviedo",
+    "lat": 28.669,
+    "lng": -81.2081
+  },
+  {
+    "teamNumber": "5237",
+    "teamName": "Loose Screws",
+    "country": "USA",
+    "city": "Temperance",
+    "lat": 41.7798,
+    "lng": -83.5688
+  },
+  {
+    "teamNumber": "14204",
+    "teamName": "Super Scream Bros",
+    "country": "USA",
+    "city": "Decatur",
+    "lat": 39.8403,
+    "lng": -88.9548
+  },
+  {
+    "teamNumber": "14954",
+    "teamName": "The Teal Roborioles",
+    "country": "USA",
+    "city": "Avon",
+    "lat": 41.4517,
+    "lng": -82.0354
+  },
+  {
+    "teamNumber": "13375",
+    "teamName": "Great Neck North Goatbusters",
+    "country": "USA",
+    "city": "Great Neck",
+    "lat": 40.8007,
+    "lng": -73.7285
+  },
+  {
+    "teamNumber": "23350",
+    "teamName": "Microchips & Queso",
+    "country": "USA",
+    "city": "San Antonio",
+    "lat": 29.4241,
+    "lng": -98.4936
+  },
+  {
+    "teamNumber": "23396",
+    "teamName": "Hivemind",
+    "country": "USA",
+    "city": "Spring Hill",
+    "lat": 28.4769,
+    "lng": -82.5255
+  },
+  {
+    "teamNumber": "6093",
+    "teamName": "Deviation From The Norm",
+    "country": "USA",
+    "city": "Bettendorf",
+    "lat": 41.5245,
+    "lng": -90.5157
+  },
+  {
+    "teamNumber": "18240",
+    "teamName": "RoboScout Squad",
+    "country": "USA",
+    "city": "Kalispell",
+    "lat": 48.191,
+    "lng": -114.3168
+  },
+  {
+    "teamNumber": "18185",
+    "teamName": "Lightbotics",
+    "country": "USA",
+    "city": "Fairbanks",
+    "lat": 64.8378,
+    "lng": -147.7164
+  },
+  {
+    "teamNumber": "19956",
+    "teamName": "BHS - Mayhem Performance Robotics",
+    "country": "USA",
+    "city": "Bushland",
+    "lat": 35.1901,
+    "lng": -102.0646
+  },
+  {
+    "teamNumber": "18650",
+    "teamName": "Cookie Clickers",
+    "country": "USA",
+    "city": "Bennington",
+    "lat": 42.8781,
+    "lng": -73.1965
+  },
+  {
+    "teamNumber": "26064",
+    "teamName": "circuit breakers",
+    "country": "USA",
+    "city": "APO",
+    "lat": 53.8667,
+    "lng": 10.6833
+  },
+  {
+    "teamNumber": "22471",
+    "teamName": "techATTACK",
+    "country": "USA",
+    "city": "Walnut",
+    "lat": 34.0203,
+    "lng": -117.8653
+  },
+  {
+    "teamNumber": "8803",
+    "teamName": "East Rankin Robotics",
+    "country": "USA",
+    "city": "Pelahatchie",
+    "lat": 32.3129,
+    "lng": -89.7984
+  },
+  {
+    "teamNumber": "14906",
+    "teamName": "Leviathan Robotics",
+    "country": "USA",
+    "city": "Tulsa",
+    "lat": 36.154,
+    "lng": -95.9928
+  },
+  {
+    "teamNumber": "24253",
+    "teamName": "Giggle Pickles",
+    "country": "USA",
+    "city": "Ferndale",
+    "lat": 42.4606,
+    "lng": -83.1346
+  },
+  {
+    "teamNumber": "25650",
+    "teamName": "One Small Step for an Axolotl",
+    "country": "USA",
+    "city": "Lititz",
+    "lat": 40.1573,
+    "lng": -76.3069
+  },
+  {
+    "teamNumber": "18221",
+    "teamName": "Meta^Infinity",
+    "country": "USA",
+    "city": "Highland Park",
+    "lat": 42.1817,
+    "lng": -87.8003
+  },
+  {
+    "teamNumber": "10949",
+    "teamName": "Mechanical Operations Bureau - MOB Robotics",
+    "country": "USA",
+    "city": "Cross River",
+    "lat": 41.2734,
+    "lng": -73.6085
+  },
+  {
+    "teamNumber": "24064",
+    "teamName": "ITKAN JIAR Janktastrophe",
+    "country": "USA",
+    "city": "Durham",
+    "lat": 36.0014,
+    "lng": -78.9382
+  },
+  {
+    "teamNumber": "30110",
+    "teamName": "Coyote",
+    "country": "USA",
+    "city": "Irvine",
+    "lat": 33.6846,
+    "lng": -117.8265
+  },
+  {
+    "teamNumber": "21305",
+    "teamName": "Rogue Cats",
+    "country": "USA",
+    "city": "Duluth",
+    "lat": 46.7867,
+    "lng": -92.1005
+  },
+  {
+    "teamNumber": "14841",
+    "teamName": "Mighty Meadowbots Blue",
+    "country": "USA",
+    "city": "Las Vegas",
+    "lat": 36.1699,
+    "lng": -115.1398
+  },
+  {
+    "teamNumber": "19862",
+    "teamName": "Mecha Mantises",
+    "country": "USA",
+    "city": "Fremont",
+    "lat": 37.5483,
+    "lng": -121.9886
+  },
+  {
+    "teamNumber": "7253",
+    "teamName": "Raging Robots",
+    "country": "USA",
+    "city": "Shelby Township",
+    "lat": 42.6709,
+    "lng": -82.986
+  },
+  {
+    "teamNumber": "19819",
+    "teamName": "AstroBruins",
+    "country": "USA",
+    "city": "Sunnyvale",
+    "lat": 37.3688,
+    "lng": -122.0363
+  },
+  {
+    "teamNumber": "30435",
+    "teamName": "Klutch Robotics",
+    "country": "USA",
+    "city": "Fort Lauderdale",
+    "lat": 26.1224,
+    "lng": -80.1373
+  },
+  {
+    "teamNumber": "26073",
+    "teamName": "BeaverBots",
+    "country": "USA",
+    "city": "Ashburn",
+    "lat": 39.0438,
+    "lng": -77.4874
+  },
+  {
+    "teamNumber": "4102",
+    "teamName": "CATscan",
+    "country": "USA",
+    "city": "Maplewood",
+    "lat": 44.953,
+    "lng": -92.9958
+  },
+  {
+    "teamNumber": "24799",
+    "teamName": "Mechanical Advantage",
+    "country": "USA",
+    "city": "Flower Mound",
+    "lat": 33.0146,
+    "lng": -97.0969
+  },
+  {
+    "teamNumber": "8565",
+    "teamName": "TechnicBots",
+    "country": "USA",
+    "city": "Plano",
+    "lat": 33.0198,
+    "lng": -96.6989
+  },
+  {
+    "teamNumber": "18255",
+    "teamName": "Stealth Robotics",
+    "country": "USA",
+    "city": "Barrington",
+    "lat": 42.1539,
+    "lng": -71.1837
+  },
+  {
+    "teamNumber": "18108",
+    "teamName": "High Voltage",
+    "country": "USA",
+    "city": "Portland",
+    "lat": 45.5152,
+    "lng": -122.6784
+  },
+  {
+    "teamNumber": "15297",
+    "teamName": "Legacy",
+    "country": "USA",
+    "city": "Tallahassee",
+    "lat": 30.4383,
+    "lng": -84.2807
+  },
+  {
+    "teamNumber": "8492",
+    "teamName": "Titanium Trojans",
+    "country": "USA",
+    "city": "Whitmore Lake",
+    "lat": 42.4398,
+    "lng": -83.7491
+  },
+  {
+    "teamNumber": "10355",
+    "teamName": "Project Peacock",
+    "country": "USA",
+    "city": "Tulsa",
+    "lat": 36.154,
+    "lng": -95.9928
+  },
+  {
+    "teamNumber": "9876",
+    "teamName": "The Countdown",
+    "country": "USA",
+    "city": "Olympia",
+    "lat": 47.0379,
+    "lng": -122.9007
+  },
+  {
+    "teamNumber": "25631",
+    "teamName": "Proxima Nova",
+    "country": "USA",
+    "city": "Lake Oswego",
+    "lat": 45.4207,
+    "lng": -122.6706
+  },
+  {
+    "teamNumber": "23392",
+    "teamName": "Viking Innovators",
+    "country": "USA",
+    "city": "Rochester",
+    "lat": 43.1566,
+    "lng": -77.6088
+  },
+  {
+    "teamNumber": "23264",
+    "teamName": "Circuit Breakers",
+    "country": "USA",
+    "city": "New Iberia",
+    "lat": 30.0035,
+    "lng": -91.8187
+  },
+  {
+    "teamNumber": "6437",
+    "teamName": "Mad Hatters",
+    "country": "USA",
+    "city": "Powell",
+    "lat": 40.1578,
+    "lng": -83.0752
+  },
+  {
+    "teamNumber": "10016",
+    "teamName": "Clarkston RoboWolves",
+    "country": "USA",
+    "city": "Village of Clarkston",
+    "lat": 42.7353,
+    "lng": -83.4188
+  },
+  {
+    "teamNumber": "701",
+    "teamName": "The GONK Squad",
+    "country": "USA",
+    "city": "North Kingstown",
+    "lat": 41.5495,
+    "lng": -71.4495
+  },
+  {
+    "teamNumber": "24331",
+    "teamName": "Caesar Circuitry",
+    "country": "USA",
+    "city": "Huntsville",
+    "lat": 34.7304,
+    "lng": -86.5861
+  },
+  {
+    "teamNumber": "12682",
+    "teamName": "The Golden Ratio",
+    "country": "USA",
+    "city": "Cary",
+    "lat": 35.7915,
+    "lng": -78.7811
+  },
+  {
+    "teamNumber": "25943",
+    "teamName": "HIVE Robotics",
+    "country": "USA",
+    "city": "Spring",
+    "lat": 30.0799,
+    "lng": -95.4172
+  },
+  {
+    "teamNumber": "10809",
+    "teamName": "Crow Force",
+    "country": "USA",
+    "city": "Carlsbad",
+    "lat": 33.1581,
+    "lng": -117.3506
+  },
+  {
+    "teamNumber": "25620",
+    "teamName": "Hexadecimal Nibble",
+    "country": "USA",
+    "city": "Scottsdale",
+    "lat": 33.4942,
+    "lng": -111.9261
+  },
+  {
+    "teamNumber": "18270",
+    "teamName": "RoboPlayers",
+    "country": "USA",
+    "city": "Irving",
+    "lat": 32.814,
+    "lng": -96.9489
+  },
+  {
+    "teamNumber": "772",
+    "teamName": "Golden Dragons",
+    "country": "USA",
+    "city": "Hartsville",
+    "lat": 34.374,
+    "lng": -80.0734
+  },
+  {
+    "teamNumber": "12313",
+    "teamName": "Hotdawgs",
+    "country": "USA",
+    "city": "Laredo",
+    "lat": 27.5036,
+    "lng": -99.5076
+  },
+  {
+    "teamNumber": "5026",
+    "teamName": "Tesla Coils",
+    "country": "USA",
+    "city": "Kimberly",
+    "lat": 44.2727,
+    "lng": -88.339
+  },
+  {
+    "teamNumber": "19376",
+    "teamName": "Thermal Equilibrium",
+    "country": "USA",
+    "city": "Holly Springs",
+    "lat": 35.6513,
+    "lng": -78.8336
+  },
+  {
+    "teamNumber": "23849",
+    "teamName": "Droid Force",
+    "country": "USA",
+    "city": "Bellevue",
+    "lat": 47.6101,
+    "lng": -122.2015
+  },
+  {
+    "teamNumber": "6272",
+    "teamName": "Iron Eagles Prime",
+    "country": "USA",
+    "city": "Austin",
+    "lat": 30.2672,
+    "lng": -97.7431
+  },
+  {
+    "teamNumber": "25576",
+    "teamName": "Voyager X",
+    "country": "USA",
+    "city": "Plano",
+    "lat": 33.0198,
+    "lng": -96.6989
+  },
+  {
+    "teamNumber": "12808",
+    "teamName": "RevAmped Robotics",
+    "country": "USA",
+    "city": "Portland",
+    "lat": 45.5152,
+    "lng": -122.6784
+  },
+  {
+    "teamNumber": "23532",
+    "teamName": "ITKAN MYCC",
+    "country": "USA",
+    "city": "Raleigh",
+    "lat": 35.7796,
+    "lng": -78.6382
+  },
+  {
+    "teamNumber": "18139",
+    "teamName": "Rebel Robotics",
+    "country": "USA",
+    "city": "Norfolk",
+    "lat": 36.8508,
+    "lng": -76.2859
+  },
+  {
+    "teamNumber": "31978",
+    "teamName": "Delta T",
+    "country": "USA",
+    "city": "Suwanee",
+    "lat": 34.0515,
+    "lng": -84.0713
+  },
+  {
+    "teamNumber": "9567",
+    "teamName": "Cybernetic Elks",
+    "country": "USA",
+    "city": "Elkton",
+    "lat": 39.6068,
+    "lng": -75.8333
+  },
+  {
+    "teamNumber": "7172",
+    "teamName": "Technical Difficulties",
+    "country": "USA",
+    "city": "Plano",
+    "lat": 33.0198,
+    "lng": -96.6989
+  },
+  {
+    "teamNumber": "22156",
+    "teamName": "Robo Titans",
+    "country": "USA",
+    "city": "Warwick",
+    "lat": 41.7001,
+    "lng": -71.4162
+  },
+  {
+    "teamNumber": "14596",
+    "teamName": "XLR8",
+    "country": "USA",
+    "city": "Osceola",
+    "lat": 28.0775,
+    "lng": -81.045
+  },
+  {
+    "teamNumber": "16010",
+    "teamName": "Astra Machina",
+    "country": "USA",
+    "city": "Omaha",
+    "lat": 41.2565,
+    "lng": -95.9345
+  },
+  {
+    "teamNumber": "21536",
+    "teamName": "Team Stealth",
+    "country": "USA",
+    "city": "Kansas City",
+    "lat": 39.0997,
+    "lng": -94.5786
+  },
+  {
+    "teamNumber": "6417",
+    "teamName": "Blu Cru",
+    "country": "USA",
+    "city": "Rockville",
+    "lat": 39.084,
+    "lng": -77.1528
+  },
+  {
+    "teamNumber": "10104",
+    "teamName": "That OTHER Team",
+    "country": "USA",
+    "city": "Belmont",
+    "lat": 37.5202,
+    "lng": -122.2758
+  },
+  {
+    "teamNumber": "3189",
+    "teamName": "Rapid Unscheduled Disassembly",
+    "country": "USA",
+    "city": "Powell",
+    "lat": 40.1578,
+    "lng": -83.0752
+  },
+  {
+    "teamNumber": "14503",
+    "teamName": "Robo Sapiens",
+    "country": "USA",
+    "city": "Sugar Land",
+    "lat": 29.6197,
+    "lng": -95.6349
+  },
+  {
+    "teamNumber": "25609",
+    "teamName": "LOAD Robotics",
+    "country": "USA",
+    "city": "Odessa",
+    "lat": 31.8457,
+    "lng": -102.3676
+  },
+  {
+    "teamNumber": "8721",
+    "teamName": "Mighty Mechanics",
+    "country": "USA",
+    "city": "Forest Hills",
+    "lat": 40.7237,
+    "lng": -73.8448
+  },
+  {
+    "teamNumber": "23250",
+    "teamName": "Verge",
+    "country": "USA",
+    "city": "Wildwood",
+    "lat": 38.5828,
+    "lng": -90.6629
+  },
+  {
+    "teamNumber": "23842",
+    "teamName": "TeamOKC Awesome Possums",
+    "country": "USA",
+    "city": "Oklahoma City",
+    "lat": 35.4676,
+    "lng": -97.5164
+  },
+  {
+    "teamNumber": "4964",
+    "teamName": "Rolla Patriots",
+    "country": "USA",
+    "city": "Rolla",
+    "lat": 37.9514,
+    "lng": -91.7713
+  },
+  {
+    "teamNumber": "20240",
+    "teamName": "Slingshot",
+    "country": "USA",
+    "city": "Austin",
+    "lat": 30.2672,
+    "lng": -97.7431
+  },
+  {
+    "teamNumber": "16008",
+    "teamName": "Armored Artemises",
+    "country": "USA",
+    "city": "Glastonbury",
+    "lat": 41.7123,
+    "lng": -72.6084
+  },
+  {
+    "teamNumber": "23292",
+    "teamName": "SuperPowered Jalapenos",
+    "country": "USA",
+    "city": "Sunnyvale",
+    "lat": 37.3688,
+    "lng": -122.0363
+  },
+  {
+    "teamNumber": "12272",
+    "teamName": "Team Lightning",
+    "country": "USA",
+    "city": "Long Beach",
+    "lat": 33.7701,
+    "lng": -118.1937
+  },
+  {
+    "teamNumber": "10309",
+    "teamName": "Jefferson TechnoHuskies",
+    "country": "USA",
+    "city": "Midland",
+    "lat": 31.9973,
+    "lng": -102.0779
+  },
+  {
+    "teamNumber": "4133",
+    "teamName": "Fusion",
+    "country": "USA",
+    "city": "Helena",
+    "lat": 46.5884,
+    "lng": -112.0245
+  },
+  {
+    "teamNumber": "7288",
+    "teamName": "RoboGlaciers",
+    "country": "USA",
+    "city": "North Branch",
+    "lat": 45.5111,
+    "lng": -92.9802
+  },
+  {
+    "teamNumber": "33490",
+    "teamName": "Indy’s Innovators",
+    "country": "USA",
+    "city": "Avondale",
+    "lat": 33.4356,
+    "lng": -112.3496
+  },
+  {
+    "teamNumber": "16617",
+    "teamName": "Swift-A-Maize",
+    "country": "USA",
+    "city": "Nazareth",
+    "lat": 40.7404,
+    "lng": -75.3096
+  },
+  {
+    "teamNumber": "19564",
+    "teamName": "ITKAN Solar",
+    "country": "USA",
+    "city": "Plano",
+    "lat": 33.0198,
+    "lng": -96.6989
+  },
+  {
+    "teamNumber": "30784",
+    "teamName": "ITKAN Lunar Jr",
+    "country": "USA",
+    "city": "Webster",
+    "lat": 42.05,
+    "lng": -71.8801
+  },
+  {
+    "teamNumber": "26112",
+    "teamName": "GNCE Organized Anarchy",
+    "country": "USA",
+    "city": "Weston",
+    "lat": 26.1004,
+    "lng": -80.3998
+  },
+  {
+    "teamNumber": "23286",
+    "teamName": "Lazer Robotics",
+    "country": "USA",
+    "city": "Newton",
+    "lat": 42.337,
+    "lng": -71.2092
+  },
+  {
+    "teamNumber": "21380",
+    "teamName": "Beyond Robotics",
+    "country": "USA",
+    "city": "San Marino",
+    "lat": 34.1214,
+    "lng": -118.1065
+  },
+  {
+    "teamNumber": "18420",
+    "teamName": "Metal Masters",
+    "country": "USA",
+    "city": "Peoria",
+    "lat": 40.6936,
+    "lng": -89.589
+  },
+  {
+    "teamNumber": "19745",
+    "teamName": "Turtle Walkers",
+    "country": "USA",
+    "city": "Redmond",
+    "lat": 47.674,
+    "lng": -122.1215
+  },
+  {
+    "teamNumber": "10435",
+    "teamName": "Circuit Breakers",
+    "country": "USA",
+    "city": "Waukee",
+    "lat": 41.6117,
+    "lng": -93.8857
+  },
+  {
+    "teamNumber": "25619",
+    "teamName": "Nova Pyra",
+    "country": "USA",
+    "city": "Mandeville",
+    "lat": 30.3583,
+    "lng": -90.0656
+  },
+  {
+    "teamNumber": "25780",
+    "teamName": "CyberChaos",
+    "country": "USA",
+    "city": "Frederick",
+    "lat": 39.4143,
+    "lng": -77.4105
+  },
+  {
+    "teamNumber": "23224",
+    "teamName": "Cheesy Bytes",
+    "country": "USA",
+    "city": "San Jose",
+    "lat": 37.3382,
+    "lng": -121.8863
+  },
+  {
+    "teamNumber": "19411",
+    "teamName": "Tech Tigers",
+    "country": "USA",
+    "city": "Sharon",
+    "lat": 42.1234,
+    "lng": -71.1787
+  },
+  {
+    "teamNumber": "23213",
+    "teamName": "Open Source",
+    "country": "USA",
+    "city": "Willis",
+    "lat": 30.4249,
+    "lng": -95.4799
+  },
+  {
+    "teamNumber": "19502",
+    "teamName": "The Moment Makers",
+    "country": "USA",
+    "city": "Pearland",
+    "lat": 29.5636,
+    "lng": -95.286
+  },
+  {
+    "teamNumber": "11225",
+    "teamName": "DELTA Robotics (Louisville Collegiate School)",
+    "country": "USA",
+    "city": "Louisville",
+    "lat": 38.2527,
+    "lng": -85.7585
+  },
+  {
+    "teamNumber": "12928",
+    "teamName": "LightSaders",
+    "country": "USA",
+    "city": "Austin",
+    "lat": 30.2672,
+    "lng": -97.7431
+  },
+  {
+    "teamNumber": "11172",
+    "teamName": "Static Discharge",
+    "country": "USA",
+    "city": "Jacksonville",
+    "lat": 30.3322,
+    "lng": -81.6557
+  },
+  {
+    "teamNumber": "26744",
+    "teamName": "Lion Robotics Black",
+    "country": "USA",
+    "city": "Clear Lake",
+    "lat": 29.5538,
+    "lng": -95.0194
+  },
+  {
+    "teamNumber": "9415",
+    "teamName": "Wrench Dressing",
+    "country": "USA",
+    "city": "Chanhassen",
+    "lat": 44.8622,
+    "lng": -93.5308
+  },
+  {
+    "teamNumber": "12599",
+    "teamName": "Overcharged",
+    "country": "USA",
+    "city": "Portland",
+    "lat": 45.5152,
+    "lng": -122.6784
+  },
+  {
+    "teamNumber": "21587",
+    "teamName": "Orca Robotics",
+    "country": "USA",
+    "city": "Potomac",
+    "lat": 39.0182,
+    "lng": -77.2086
+  },
+  {
+    "teamNumber": "3747",
+    "teamName": "The Hive",
+    "country": "USA",
+    "city": "Sandy",
+    "lat": 40.591,
+    "lng": -111.884
+  },
+  {
+    "teamNumber": "26100",
+    "teamName": "Warrior Bots",
+    "country": "USA",
+    "city": "Flagstaff",
+    "lat": 35.1983,
+    "lng": -111.6513
+  },
+  {
+    "teamNumber": "18140",
+    "teamName": "TBD-ThunderBolts in Disguise",
+    "country": "USA",
+    "city": "Friendswood",
+    "lat": 29.5294,
+    "lng": -95.201
+  },
+  {
+    "teamNumber": "13088",
+    "teamName": "Cyber Saints",
+    "country": "USA",
+    "city": "Kapaʻa",
+    "lat": 22.0783,
+    "lng": -159.321
+  },
+  {
+    "teamNumber": "19706",
+    "teamName": "Potential Energy",
+    "country": "USA",
+    "city": "Shoreview",
+    "lat": 45.0794,
+    "lng": -93.1472
+  },
+  {
+    "teamNumber": "30393",
+    "teamName": "Lumens³",
+    "country": "USA",
+    "city": "New London",
+    "lat": 41.3557,
+    "lng": -72.0995
+  },
+  {
+    "teamNumber": "5477",
+    "teamName": "Innovo",
+    "country": "USA",
+    "city": "Hewlett",
+    "lat": 40.6437,
+    "lng": -73.6957
+  },
+  {
+    "teamNumber": "22377",
+    "teamName": "SigmaCorns",
+    "country": "USA",
+    "city": "Durham",
+    "lat": 36.0014,
+    "lng": -78.9382
+  },
+  {
+    "teamNumber": "19426",
+    "teamName": "QHSS Cardinals",
+    "country": "USA",
+    "city": "USA",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "teamNumber": "207",
+    "teamName": "Critical Mass",
+    "country": "USA",
+    "city": "Englewood",
+    "lat": 39.6478,
+    "lng": -104.9878
+  },
+  {
+    "teamNumber": "11308",
+    "teamName": "YISE",
+    "country": "USA",
+    "city": "Parker",
+    "lat": 39.5186,
+    "lng": -104.7614
+  },
+  {
+    "teamNumber": "26115",
+    "teamName": "Alphabots",
+    "country": "USA",
+    "city": "Columbia",
+    "lat": 34.0007,
+    "lng": -81.0348
+  },
+  {
+    "teamNumber": "359",
+    "teamName": "Webb.exe",
+    "country": "USA",
+    "city": "Claremont",
+    "lat": 34.0967,
+    "lng": -117.7198
+  },
+  {
+    "teamNumber": "20744",
+    "teamName": "24 Karat",
+    "country": "USA",
+    "city": "Aurora",
+    "lat": 39.7294,
+    "lng": -104.8319
+  },
+  {
+    "teamNumber": "23424",
+    "teamName": "Fruity Loops",
+    "country": "USA",
+    "city": "Saint Charles",
+    "lat": 38.7881,
+    "lng": -90.4974
+  },
+  {
+    "teamNumber": "16265",
+    "teamName": "ENIGMA",
+    "country": "USA",
+    "city": "Albuquerque",
+    "lat": 35.0844,
+    "lng": -106.6504
+  },
+  {
+    "teamNumber": "26537",
+    "teamName": "Arcturus - Artemis",
+    "country": "USA",
+    "city": "Alpharetta",
+    "lat": 34.0754,
+    "lng": -84.2941
+  },
+  {
+    "teamNumber": "9848",
+    "teamName": "GearView",
+    "country": "USA",
+    "city": "Harrison Township",
+    "lat": 42.5711,
+    "lng": -82.8457
+  },
+  {
+    "teamNumber": "30030",
+    "teamName": "Exodus",
+    "country": "USA",
+    "city": "Austin",
+    "lat": 30.2672,
+    "lng": -97.7431
+  },
+  {
+    "teamNumber": "21239",
+    "teamName": "All Systems Go",
+    "country": "USA",
+    "city": "Louisville",
+    "lat": 38.2527,
+    "lng": -85.7585
+  },
+  {
+    "teamNumber": "20153",
+    "teamName": "Silver Wolves",
+    "country": "USA",
+    "city": "Kennett Square",
+    "lat": 39.8468,
+    "lng": -75.7119
+  },
+  {
+    "teamNumber": "23435",
+    "teamName": "Gyrobotic Droids",
+    "country": "USA",
+    "city": "USA",
+    "lat": null,
+    "lng": null
+  },
+  {
+    "teamNumber": "24006",
+    "teamName": "LeXT--Watermelon Why？",
+    "country": "USA",
+    "city": "Agoura Hills",
+    "lat": 34.1364,
+    "lng": -118.7745
+  },
+  {
+    "teamNumber": "21502",
+    "teamName": "Bionic Bulldogs",
+    "country": "USA",
+    "city": "Raleigh",
+    "lat": 35.7796,
+    "lng": -78.6382
+  },
+  {
+    "teamNumber": "23268",
+    "teamName": "Ultraviolet",
+    "country": "USA",
+    "city": "Hackettstown",
+    "lat": 40.8534,
+    "lng": -74.8291
+  },
+  {
+    "teamNumber": "18996",
+    "teamName": "S.T.A.T.I.C.",
+    "country": "USA",
+    "city": "Ellicott City",
+    "lat": 39.2673,
+    "lng": -76.7983
+  },
+  {
+    "teamNumber": "15083",
+    "teamName": "Overclock",
+    "country": "USA",
+    "city": "Allen",
+    "lat": 33.1032,
+    "lng": -96.6706
+  },
+  {
+    "teamNumber": "11228",
+    "teamName": "OverClucked Bots",
+    "country": "USA",
+    "city": "Zeeland",
+    "lat": 42.8116,
+    "lng": -86.0165
+  },
+  {
+    "teamNumber": "18142",
+    "teamName": "Fusion",
+    "country": "USA",
+    "city": "San Diego",
+    "lat": 32.7157,
+    "lng": -117.1611
+  },
+  {
+    "teamNumber": "9791",
+    "teamName": "Divide by Zero",
+    "country": "USA",
+    "city": "Lansdale",
+    "lat": 40.2415,
+    "lng": -75.2838
+  },
+  {
+    "teamNumber": "11525",
+    "teamName": "Minerva's Mechanics",
+    "country": "USA",
+    "city": "Brunswick",
+    "lat": 41.2381,
+    "lng": -81.8418
+  },
+  {
+    "teamNumber": "23511",
+    "teamName": "Seattle Solvers",
+    "country": "USA",
+    "city": "Sammamish",
+    "lat": 47.6163,
+    "lng": -122.0356
+  },
+  {
+    "teamNumber": "26949",
+    "teamName": "Royal Society of Robotics",
+    "country": "USA",
+    "city": "Norman",
+    "lat": 35.2226,
+    "lng": -97.4395
+  },
+  {
+    "teamNumber": "21430",
+    "teamName": "BroomBots",
+    "country": "USA",
+    "city": "Broomfield",
+    "lat": 39.9205,
+    "lng": -105.0867
+  },
+  {
+    "teamNumber": "19639",
+    "teamName": "Alphabots",
+    "country": "USA",
+    "city": "Fremont",
+    "lat": 37.5483,
+    "lng": -121.9886
+  },
+  {
+    "teamNumber": "20506",
+    "teamName": "Technobots",
+    "country": "USA",
+    "city": "Los Angeles",
+    "lat": 34.0522,
+    "lng": -118.2437
+  },
+  {
+    "teamNumber": "22437",
+    "teamName": "Demon Dogs",
+    "country": "USA",
+    "city": "Long Island City",
+    "lat": 40.7447,
+    "lng": -73.9485
+  },
+  {
+    "teamNumber": "6165",
+    "teamName": "MSET CuttleFish",
+    "country": "USA",
+    "city": "Saratoga",
+    "lat": 37.2638,
+    "lng": -122.023
+  },
+  {
+    "teamNumber": "21982",
+    "teamName": "i-Kineers",
+    "country": "USA",
+    "city": "Costa Mesa",
+    "lat": 33.6638,
+    "lng": -117.9047
+  },
+  {
+    "teamNumber": "15549",
+    "teamName": "DCHS-Pleiades",
+    "country": "USA",
+    "city": "Denver City",
+    "lat": 32.9646,
+    "lng": -102.8294
+  },
+  {
+    "teamNumber": "19571",
+    "teamName": "The Robo Brigade",
+    "country": "USA",
+    "city": "Suwanee",
+    "lat": 34.0515,
+    "lng": -84.0713
+  },
+  {
+    "teamNumber": "31862",
+    "teamName": "SEGFAULT",
+    "country": "USA",
+    "city": "Cedar Park",
+    "lat": 30.5052,
+    "lng": -97.8203
+  },
+  {
+    "teamNumber": "19448",
+    "teamName": "X BOTS",
+    "country": "USA",
+    "city": "Wildwood",
+    "lat": 38.5828,
+    "lng": -90.6629
+  },
+  {
+    "teamNumber": "24180",
+    "teamName": "Blue Bananas",
+    "country": "USA",
+    "city": "Huntsville",
+    "lat": 34.7304,
+    "lng": -86.5861
+  },
+  {
+    "teamNumber": "14423",
+    "teamName": "RoboCorns",
+    "country": "USA",
+    "city": "Exton",
+    "lat": 40.029,
+    "lng": -75.628
+  },
+  {
+    "teamNumber": "10136",
+    "teamName": "Frost RoboFalcons",
+    "country": "USA",
+    "city": "Livonia",
+    "lat": 42.3684,
+    "lng": -83.3527
+  },
+  {
+    "teamNumber": "14450",
+    "teamName": "RoboRebels",
+    "country": "USA",
+    "city": "Saddle River",
+    "lat": 41.0315,
+    "lng": -74.0968
+  },
+  {
+    "teamNumber": "9707",
+    "teamName": "St. Mary's BE.A.ST. Robotics",
+    "country": "USA",
+    "city": "Bismarck",
+    "lat": 46.8083,
+    "lng": -100.7837
+  },
+  {
+    "teamNumber": "14712",
+    "teamName": "Ruckus Robotics",
+    "country": "USA",
+    "city": "New York",
+    "lat": 40.7128,
+    "lng": -74.006
+  },
+  {
+    "teamNumber": "10653",
+    "teamName": "Dragatrons",
+    "country": "USA",
+    "city": "Saginaw",
+    "lat": 43.4195,
+    "lng": -83.9508
+  },
+  {
+    "teamNumber": "7854",
+    "teamName": "MidKnight Madness",
+    "country": "USA",
+    "city": "Sunnyvale",
+    "lat": 37.3688,
+    "lng": -122.0363
+  },
+  {
+    "teamNumber": "32281",
+    "teamName": "Chillydawgs",
+    "country": "USA",
+    "city": "Laredo",
+    "lat": 27.5036,
+    "lng": -99.5076
+  },
+  {
+    "teamNumber": "3216",
+    "teamName": "Robophins",
+    "country": "USA",
+    "city": "Chicago",
+    "lat": 41.8781,
+    "lng": -87.6298
+  },
+  {
+    "teamNumber": "18908",
+    "teamName": "Mighty Hawks",
+    "country": "USA",
+    "city": "Laredo",
+    "lat": 27.5036,
+    "lng": -99.5076
+  },
+  {
+    "teamNumber": "30380",
+    "teamName": "Bitflip",
+    "country": "USA",
+    "city": "Charleston",
+    "lat": 32.7765,
+    "lng": -79.9311
+  },
+  {
+    "teamNumber": "18264",
+    "teamName": "TheElectronovas",
+    "country": "USA",
+    "city": "Fairfax",
+    "lat": 38.8462,
+    "lng": -77.3064
+  },
+  {
+    "teamNumber": "31000",
+    "teamName": "VANTA",
+    "country": "USA",
+    "city": "Orlando",
+    "lat": 28.5383,
+    "lng": -81.3792
+  },
+  {
+    "teamNumber": "26192",
+    "teamName": "Heatwaves",
+    "country": "USA",
+    "city": "Waukee",
+    "lat": 41.6117,
+    "lng": -93.8857
+  },
+  {
+    "teamNumber": "10984",
+    "teamName": "Beep Patrol",
+    "country": "USA",
+    "city": "Litchfield Park",
+    "lat": 33.4934,
+    "lng": -112.3574
+  },
+  {
+    "teamNumber": "23948",
+    "teamName": "Shiprock Chieftains",
+    "country": "USA",
+    "city": "Shiprock",
+    "lat": 36.7856,
+    "lng": -108.687
+  },
+  {
+    "teamNumber": "13532",
+    "teamName": "EagleBots",
+    "country": "USA",
+    "city": "Iowa City",
+    "lat": 41.6611,
+    "lng": -91.5302
+  },
+  {
+    "teamNumber": "14380",
+    "teamName": "Blue BotBuilders",
+    "country": "USA",
+    "city": "Northgate",
+    "lat": 47.7089,
+    "lng": -122.3232
+  },
+  {
+    "teamNumber": "21229",
+    "teamName": "Quality Control",
+    "country": "USA",
+    "city": "Bellevue",
+    "lat": 47.6101,
+    "lng": -122.2015
+  },
+  {
+    "teamNumber": "3565",
+    "teamName": "Ghost Robotics",
+    "country": "USA",
+    "city": "Westford",
+    "lat": 42.5793,
+    "lng": -71.4378
+  },
+  {
+    "teamNumber": "23521",
+    "teamName": "DeSoto Technix",
+    "country": "USA",
+    "city": "Olive Branch",
+    "lat": 34.9618,
+    "lng": -89.8295
+  },
+  {
+    "teamNumber": "32240",
+    "teamName": "Penguinauts",
+    "country": "USA",
+    "city": "Austin",
+    "lat": 30.2672,
+    "lng": -97.7431
+  },
+  {
+    "teamNumber": "10298",
+    "teamName": "Brain Stormz",
+    "country": "USA",
+    "city": "Thousand Oaks",
+    "lat": 34.1706,
+    "lng": -118.8376
+  },
+  {
+    "teamNumber": "25707",
+    "teamName": "Solar Flare",
+    "country": "USA",
+    "city": "Scarsdale",
+    "lat": 40.9882,
+    "lng": -73.7949
+  },
+  {
+    "teamNumber": "23944",
+    "teamName": "Robolobos Fenrir",
+    "country": "USA",
+    "city": "Cedar Park",
+    "lat": 30.5052,
+    "lng": -97.8203
+  },
+  {
+    "teamNumber": "12649",
+    "teamName": "Code Blooded",
+    "country": "USA",
+    "city": "Minneapolis",
+    "lat": 44.9778,
+    "lng": -93.265
+  },
+  {
+    "teamNumber": "18227",
+    "teamName": "Area 52",
+    "country": "USA",
+    "city": "Plano",
+    "lat": 33.0198,
+    "lng": -96.6989
+  },
+  {
+    "teamNumber": "27188",
+    "teamName": "Fractal Fusion",
+    "country": "USA",
+    "city": "Orlando",
+    "lat": 28.5383,
+    "lng": -81.3792
+  },
+  {
+    "teamNumber": "18858",
+    "teamName": "ARC",
+    "country": "USA",
+    "city": "Las Vegas",
+    "lat": 36.1699,
+    "lng": -115.1398
+  },
+  {
+    "teamNumber": "23222",
+    "teamName": "Cheesy Chips",
+    "country": "USA",
+    "city": "San Jose",
+    "lat": 37.3382,
+    "lng": -121.8863
+  },
+  {
+    "teamNumber": "10477",
+    "teamName": "Rapid Robots",
+    "country": "USA",
+    "city": "Novi",
+    "lat": 42.4806,
+    "lng": -83.4755
+  },
+  {
+    "teamNumber": "13093",
+    "teamName": "Golden Fish",
+    "country": "USA",
+    "city": "Punta Gorda",
+    "lat": 26.9298,
+    "lng": -82.0454
+  },
+  {
+    "teamNumber": "12611",
+    "teamName": "TechNova",
+    "country": "USA",
+    "city": "Brentwood",
+    "lat": 36.0331,
+    "lng": -86.7828
+  },
+  {
+    "teamNumber": "19652",
+    "teamName": "Techineers",
+    "country": "USA",
+    "city": "Naperville",
+    "lat": 41.7508,
+    "lng": -88.1535
+  },
+  {
+    "teamNumber": "11093",
+    "teamName": "MegaKnytes",
+    "country": "USA",
+    "city": "Austin",
+    "lat": 30.2672,
+    "lng": -97.7431
+  },
+  {
+    "teamNumber": "7140",
+    "teamName": "Knightmares",
+    "country": "USA",
+    "city": "Grosse Pointe",
+    "lat": 42.3861,
+    "lng": -82.9119
+  },
+  {
+    "teamNumber": "7149",
+    "teamName": "ENFORCERS",
+    "country": "USA",
+    "city": "Egg Harbor Township",
+    "lat": 39.382,
+    "lng": -74.571
+  },
+  {
+    "teamNumber": "23840",
+    "teamName": "Howard Dynamics",
+    "country": "USA",
+    "city": "Ellicott City",
+    "lat": 39.2673,
+    "lng": -76.7983
+  },
+  {
+    "teamNumber": "18225",
+    "teamName": "High Definition",
+    "country": "USA",
+    "city": "Bellevue",
+    "lat": 47.6101,
+    "lng": -122.2015
+  },
+  {
+    "teamNumber": "23918",
+    "teamName": "SUPER SIGMA ROBOTICS",
+    "country": "USA",
+    "city": "Portland",
+    "lat": 45.5152,
+    "lng": -122.6784
+  },
+  {
+    "teamNumber": "15104",
+    "teamName": "Static Eagles",
+    "country": "USA",
+    "city": "Hartland",
+    "lat": 42.6611,
+    "lng": -88.342
+  },
+  {
+    "teamNumber": "28804",
+    "teamName": "CyberSmiths",
+    "country": "USA",
+    "city": "Ann Arbor",
+    "lat": 42.2808,
+    "lng": -83.743
+  },
+  {
+    "teamNumber": "4848",
+    "teamName": "Chaos",
+    "country": "USA",
+    "city": "Laredo",
+    "lat": 27.5036,
+    "lng": -99.5076
+  },
+  {
+    "teamNumber": "32706",
+    "teamName": "Tic-Tac-Tech",
+    "country": "USA",
+    "city": "New York",
+    "lat": 40.7128,
+    "lng": -74.006
+  },
+  {
+    "teamNumber": "26820",
+    "teamName": "Molten Glass",
+    "country": "USA",
+    "city": "Eagan",
+    "lat": 44.8041,
+    "lng": -93.1669
+  },
+  {
+    "teamNumber": "23786",
+    "teamName": "MakEMinds",
+    "country": "USA",
+    "city": "Edison",
+    "lat": 40.5187,
+    "lng": -74.4121
+  },
+  {
+    "teamNumber": "29999",
+    "teamName": "Weeping Angels",
+    "country": "USA",
+    "city": "San Antonio",
+    "lat": 29.4241,
+    "lng": -98.4936
+  },
+  {
+    "teamNumber": "19779",
+    "teamName": "Metal Rebels",
+    "country": "USA",
+    "city": "Muleshoe",
+    "lat": 34.2265,
+    "lng": -102.7238
+  },
+  {
+    "teamNumber": "16169",
+    "teamName": "Banana Box",
+    "country": "USA",
+    "city": "Windham",
+    "lat": 43.8106,
+    "lng": -70.407
+  },
+  {
+    "teamNumber": "11212",
+    "teamName": "The Clueless",
+    "country": "USA",
+    "city": "San Diego",
+    "lat": 32.7157,
+    "lng": -117.1611
+  },
+  {
+    "teamNumber": "11347",
+    "teamName": "CircuitRunners Robotics - Blackout",
+    "country": "USA",
+    "city": "Marietta",
+    "lat": 33.9526,
+    "lng": -84.5499
+  },
+  {
+    "teamNumber": "5356",
+    "teamName": "TARDIS",
+    "country": "USA",
+    "city": "Corning",
+    "lat": 42.1429,
+    "lng": -77.0547
+  },
+  {
+    "teamNumber": "3825",
+    "teamName": "Ψ Lynx",
+    "country": "USA",
+    "city": "Anchorage",
+    "lat": 61.2181,
+    "lng": -149.9003
+  },
+  {
+    "teamNumber": "16377",
+    "teamName": "Spicy Ketchup",
+    "country": "USA",
+    "city": "Universal City",
+    "lat": 29.548,
+    "lng": -98.2917
+  },
+  {
+    "teamNumber": "20625",
+    "teamName": "SOCES Knights",
+    "country": "USA",
+    "city": "Los Angeles",
+    "lat": 34.0522,
+    "lng": -118.2437
+  },
+  {
+    "teamNumber": "24018",
+    "teamName": "Avant-Garde",
+    "country": "USA",
+    "city": "Nashua",
+    "lat": 42.7654,
+    "lng": -71.4676
+  },
+  {
+    "teamNumber": "30439",
+    "teamName": "Cool Name Pending...",
+    "country": "USA",
+    "city": "East Brunswick",
+    "lat": 40.431,
+    "lng": -74.4049
+  },
+  {
+    "teamNumber": "13201",
+    "teamName": "Team Hazmat",
+    "country": "USA",
+    "city": "Brookfield",
+    "lat": 43.0606,
+    "lng": -88.1065
+  },
+  {
+    "teamNumber": "23942",
+    "teamName": "Rez Kidz",
+    "country": "USA",
+    "city": "Kayenta",
+    "lat": 36.7278,
+    "lng": -110.2546
+  }
+]

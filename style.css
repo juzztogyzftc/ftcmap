@@ -1,0 +1,374 @@
+/* ==========================================================================
+   FTCMap — style.css
+   Full-screen map with a floating glassmorphism top bar.
+   ========================================================================== */
+
+:root {
+  --bg: #0b0e13;
+  --panel-bg: rgba(20, 24, 32, 0.82);
+  --panel-border: rgba(255, 255, 255, 0.09);
+  --text-primary: #e8eaf0;
+  --text-secondary: #9aa1b2;
+  --accent: #00aaff;
+  --accent-soft: rgba(0, 170, 255, 0.14);
+  --radius: 14px;
+  --shadow: 0 8px 30px rgba(0, 0, 0, 0.45);
+  --transition: 0.2s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+* { box-sizing: border-box; }
+
+html, body {
+  margin: 0;
+  height: 100%;
+  font-family: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+               "PingFang SC", "Microsoft YaHei", sans-serif;
+  background: var(--bg);
+  color: var(--text-primary);
+  overflow: hidden;
+}
+
+/* ---------- Map ---------- */
+
+#map {
+  position: fixed;
+  inset: 0;
+  background: var(--bg);
+}
+
+/* Muted dark treatment for the light OSM tiles so they fit the dark UI */
+.leaflet-tile-pane {
+  filter: brightness(0.72) saturate(0.55) contrast(1.05);
+}
+
+/* ---------- Top bar ---------- */
+
+.topbar {
+  position: fixed;
+  top: 14px;
+  left: 14px;
+  right: 14px;
+  z-index: 1000;
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  padding: 10px 14px;
+  background: var(--panel-bg);
+  border: 1px solid var(--panel-border);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+}
+
+.brand {
+  display: flex;
+  align-items: center;
+  gap: 9px;
+  flex-shrink: 0;
+  user-select: none;
+}
+
+.brand-mark { display: block; }
+
+.brand-name {
+  font-size: 17px;
+  font-weight: 700;
+  letter-spacing: 0.2px;
+}
+
+.brand-accent { color: var(--accent); }
+
+.team-count {
+  margin-left: auto;
+  flex-shrink: 0;
+  font-size: 12px;
+  color: var(--text-secondary);
+  font-variant-numeric: tabular-nums;
+  white-space: nowrap;
+}
+
+/* ---------- Search ---------- */
+
+.search {
+  position: relative;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  flex: 1 1 320px;
+  max-width: 460px;
+  padding: 0 10px;
+  height: 40px;
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid var(--panel-border);
+  border-radius: 10px;
+  transition: border-color var(--transition), background var(--transition);
+}
+
+.search:focus-within {
+  border-color: var(--accent);
+  background: rgba(255, 255, 255, 0.08);
+}
+
+.search-icon { color: var(--text-secondary); flex-shrink: 0; }
+
+#search-input {
+  flex: 1;
+  min-width: 0;
+  height: 100%;
+  border: none;
+  outline: none;
+  background: transparent;
+  color: var(--text-primary);
+  font: inherit;
+  font-size: 14px;
+}
+
+#search-input::placeholder { color: var(--text-secondary); }
+
+.search-clear {
+  display: grid;
+  place-items: center;
+  width: 26px;
+  height: 26px;
+  border: none;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.08);
+  color: var(--text-secondary);
+  font-size: 17px;
+  line-height: 1;
+  cursor: pointer;
+  transition: background var(--transition), color var(--transition);
+}
+
+.search-clear:hover { background: rgba(255, 255, 255, 0.16); color: var(--text-primary); }
+.search-clear:focus-visible { outline: 2px solid var(--accent); outline-offset: 1px; }
+
+/* ---------- Search dropdown ---------- */
+
+.search-results,
+.search-empty {
+  position: absolute;
+  top: calc(100% + 8px);
+  left: 0;
+  right: 0;
+  max-height: min(320px, 50vh);
+  overflow-y: auto;
+  background: var(--panel-bg);
+  border: 1px solid var(--panel-border);
+  border-radius: 12px;
+  box-shadow: var(--shadow);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+  animation: drop-in var(--transition);
+}
+
+@keyframes drop-in {
+  from { opacity: 0; transform: translateY(-4px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+
+.search-empty {
+  padding: 14px 16px;
+  font-size: 14px;
+  color: var(--text-secondary);
+}
+
+.search-result {
+  display: block;
+  width: 100%;
+  padding: 10px 14px;
+  border: none;
+  background: transparent;
+  color: var(--text-primary);
+  text-align: left;
+  cursor: pointer;
+  transition: background var(--transition);
+}
+
+.search-result:hover,
+.search-result.active { background: var(--accent-soft); }
+
+.search-result:focus-visible { outline: 2px solid var(--accent); outline-offset: -2px; }
+
+.search-result .r-name {
+  display: block;
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.search-result .r-meta {
+  display: block;
+  margin-top: 2px;
+  font-size: 12px;
+  color: var(--text-secondary);
+}
+
+.search-results::-webkit-scrollbar { width: 6px; }
+.search-results::-webkit-scrollbar-thumb {
+  background: rgba(255, 255, 255, 0.15);
+  border-radius: 3px;
+}
+
+/* ---------- Markers ---------- */
+
+.team-marker {
+  display: grid;
+  place-items: center;
+}
+
+.team-marker .dot {
+  width: 12px;
+  height: 12px;
+  border-radius: 50%;
+  background: var(--accent);
+  border: 2px solid #0b0e13;
+  box-shadow: 0 0 0 2px rgba(0, 170, 255, 0.35), 0 0 10px rgba(0, 170, 255, 0.5);
+  transition: transform var(--transition);
+}
+
+.team-marker:hover .dot { transform: scale(1.3); }
+
+/* Cluster bubbles (overrides MarkerCluster defaults) */
+
+.marker-cluster {
+  background-clip: padding-box;
+  border-radius: 50%;
+}
+
+.marker-cluster div {
+  width: 34px;
+  height: 34px;
+  margin: 3px;
+  border-radius: 50%;
+  font: 600 12px/34px "Inter", -apple-system, sans-serif;
+  text-align: center;
+  color: #04121c;
+  background: var(--accent);
+  box-shadow: 0 0 0 4px rgba(0, 170, 255, 0.25);
+}
+
+.marker-cluster-small,
+.marker-cluster-medium,
+.marker-cluster-large { background: rgba(0, 170, 255, 0.18); }
+
+/* ---------- Team popup card ---------- */
+
+.leaflet-popup-content-wrapper {
+  background: var(--panel-bg);
+  color: var(--text-primary);
+  border: 1px solid var(--panel-border);
+  border-radius: var(--radius);
+  box-shadow: var(--shadow);
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+}
+
+.leaflet-popup-tip { background: rgba(20, 24, 32, 0.95); }
+
+.leaflet-popup-content {
+  margin: 16px 18px;
+  font-family: inherit;
+  line-height: 1.45;
+}
+
+.leaflet-popup-close-button {
+  color: var(--text-secondary) !important;
+  font-size: 20px !important;
+  padding: 8px 10px 0 0 !important;
+}
+
+.team-card .tc-name {
+  margin: 0 0 2px;
+  font-size: 17px;
+  font-weight: 700;
+}
+
+.team-card .tc-number {
+  font-size: 13px;
+  font-weight: 600;
+  color: var(--accent);
+  font-variant-numeric: tabular-nums;
+}
+
+.team-card .tc-location {
+  margin: 8px 0 14px;
+  font-size: 13px;
+  color: var(--text-secondary);
+}
+
+.team-card .tc-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 9px 14px;
+  border-radius: 9px;
+  background: var(--accent);
+  color: #04121c;
+  font-size: 13px;
+  font-weight: 700;
+  text-decoration: none;
+  transition: background var(--transition), transform var(--transition);
+}
+
+.team-card .tc-link:hover { background: #33bdff; transform: translateY(-1px); }
+.team-card .tc-link:focus-visible { outline: 2px solid #fff; outline-offset: 2px; }
+
+/* Leaflet chrome tweaks */
+
+.leaflet-control-zoom {
+  border: 1px solid var(--panel-border) !important;
+  border-radius: 10px !important;
+  overflow: hidden;
+  box-shadow: var(--shadow) !important;
+}
+
+.leaflet-control-zoom a {
+  background: var(--panel-bg) !important;
+  color: var(--text-primary) !important;
+  border-bottom: 1px solid var(--panel-border) !important;
+  backdrop-filter: blur(10px);
+  -webkit-backdrop-filter: blur(10px);
+}
+
+.leaflet-control-zoom a:hover { background: rgba(255, 255, 255, 0.1) !important; }
+
+.leaflet-control-attribution {
+  background: rgba(11, 14, 19, 0.7) !important;
+  color: var(--text-secondary) !important;
+  font-size: 10px !important;
+}
+
+.leaflet-control-attribution a { color: var(--accent) !important; }
+
+/* Focus states for keyboard users */
+:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
+
+/* ---------- Responsive ---------- */
+
+@media (max-width: 640px) {
+  .topbar {
+    top: 10px;
+    left: 10px;
+    right: 10px;
+    flex-wrap: wrap;
+    gap: 10px;
+    padding: 10px 12px;
+  }
+
+  .brand-name { font-size: 15px; }
+
+  .search {
+    order: 3;
+    flex: 1 1 100%;
+    max-width: none;
+    height: 44px; /* finger-friendly */
+  }
+
+  .team-count { font-size: 11px; }
+
+  .leaflet-popup-content-wrapper { max-width: calc(100vw - 60px); }
+  .leaflet-popup-content { margin: 14px 16px; }
+
+  .team-card .tc-link { padding: 11px 16px; } /* larger touch target */
+}
